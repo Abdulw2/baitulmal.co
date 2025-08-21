@@ -126,11 +126,12 @@
 
                                 <ul style="list-style-type: square">
 
-                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">Establish Islamic financial cooperatives/ BMT Groups to enhance the socio-economic development of the active poor and productive entrepreneurs.</li>
-                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">Extend financial services, service activities, and non-financial direct assistance to Micro, Small, and Medium Enterprises (MSMEs) at the grassroots.</li>
-                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">Enhance Islamic Finance Institutionalization in the financial sector and the Community at large.</li>
+                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">To transform lives and livelihoods of communities.</li>
+                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">To develop a dominant market for Baitulmal products.</li>
+                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">To build an investor base for Baitulmal Uganda.</li>
 
                                 </ul>
+                                <!-- Objectives updated -->
                             </div>
                             <div class="themesflat-spacer clearfix" data-desktop="22" data-mobile="22" data-smobile="22"></div>
                             <div class="themesflat-accordions style-4 has-icon icon-right iconstyle-1 clearfix">
@@ -285,7 +286,7 @@
                                 </div>
                                 <!-- /.accordion-item -->
                                 <div class="accordion-item">
-                                    <h3 class="accordion-heading"><span class="inner">Services Provided to Beneficiaries </span></h3>
+                                    <h3 class="accordion-heading"><span class="inner">Services Provided to Beneficiaries </span></h3> <!-- check Later #1 -->
                                     <div class="accordion-content clearfix">
                                         <div class="themesflat-row clearfix">
                                              <div class="themesflat-content-box clearfix" data-margin="0 22px 0 0px" data-mobilemargin="0 22px 0 0px">

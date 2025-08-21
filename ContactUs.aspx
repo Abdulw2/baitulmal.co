@@ -124,7 +124,7 @@
                                                                 <p class="sub-heading">Mobile: +256750075300</p>
                                                                 <span class="class more-link"><a
                                                                         href="tel:+256393193431">Call us now</a></span>
-                                                            </div>
+                                                            </div> <!-- phone numbers updated-->
                                                         </div>
                                                         <!-- /.themesflat-icon-box -->
                                                     </div>

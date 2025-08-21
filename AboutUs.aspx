@@ -93,6 +93,7 @@
                                                                 data-mobilemargin="0 0 0 4.5%">
                                                                 <div class="themesflat-headings style-1 clearfix">
                                                                     <h2 class="heading">ABOUT BAITULMAL</h2>
+                                                                    <!-- check Later #2 , consult with CTO regarding this-->
                                                                     <div
                                                                         class="sep has-width w80 accent-bg margin-top-11 clearfix">
                                                                     </div>
@@ -112,7 +113,20 @@
                                                                         solutions including; investment management,
                                                                         financial planning, tax planning, estate
                                                                         planning, retirement planning, and risk
-                                                                        management among others.
+                                                                        management among others.<br /><br />
+                                                                        Although Uganda’s Islamic financial sector has
+                                                                        had a humble beginning, the coming on board of
+                                                                        Baitulmal is a key milestone. Baitulmal is well
+                                                                        positioned to leverage its knowledge,
+                                                                        experience, exposure, and networks to grow the
+                                                                        Islamic wealth industry.<br /><br />
+                                                                        Baitulmal’s momentum is built on a solid
+                                                                        foundation, clients and business partners’
+                                                                        confidence, professional team who have
+                                                                        structuring capabilities and portfolio
+                                                                        management expertise in the Islamic financial
+                                                                        sector space. They balance spiritual principles
+                                                                        and sound financial strategies.
                                                                     </p>
                                                                 </div>
                                                                 <div class="themesflat-spacer clearfix"
@@ -230,7 +244,9 @@
                                                         <div class="text-wrap">
                                                             <h5 class="heading"><a href="#">Vision</a></h5>
                                                             <div class="sep clearfix"></div>
-                                                            <p class="sub-heading">Delivering Shari’ah-compliant financial solutions that foster inclusive growth and ethical wealth management.
+                                                            <p class="sub-heading">To be the leading indigenous Islamic
+                                                                financial institution for banking, finance, and wealth
+                                                                management services.
                                                         </div> <!-- /.Vision updated -->
                                                     </div>
                                                     <!-- /.themesflat-icon-box -->
