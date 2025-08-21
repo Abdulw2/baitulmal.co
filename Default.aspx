@@ -355,8 +355,8 @@
                                                         <div class="text-wrap">
                                                             <h5 class="heading"><a href="#">Vision</a></h5>
                                                             <div class="sep clearfix"></div>
-                                                            <p class="sub-heading">To be a socio-economic development institution that transforms communities through Islamic financial services. </p>
-                                                        </div>
+                                                            <p class="sub-heading">Delivering Shari’ah-compliant financial solutions that foster inclusive growth and ethical wealth management. </p>
+                                                        </div> <!-- /.Vision updated -->
                                                     </div>
                                                     <!-- /.themesflat-icon-box -->
                                                 </div>
@@ -675,11 +675,11 @@
                                 <h2 class="heading">Objectives of Establishing Baitulmal</h2>
                                 <div class="sep has-width w80 accent-bg clearfix"></div>
 
-                                <ul style="list-style-type: square">
+                                <ul style="list-style-type: square"><!-- Objectives updated -->
 
-                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">Establish Islamic financial cooperatives/ BMT Groups to enhance the socio-economic development of the active poor and productive entrepreneurs.</li>
-                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">Extend financial services, service activities, and non-financial direct assistance to Micro, Small, and Medium Enterprises (MSMEs) at the grassroots.</li>
-                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">Enhance Islamic Finance Institutionalization in the financial sector and the Community at large.</li>
+                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">To transform lives and livelihoods of communities.</li>
+                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">To develop a dominant market for Baitulmal products.</li>
+                                    <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01" style="list-style-type: square">To build an investor base for Baitulmal Uganda.</li>
 
                                 </ul>
                             </div>
