@@ -80,7 +80,7 @@
             <div class="col span_1_of_3">
                 <div class="widget widget_text">
                     <div class="textwidget">
-                        <p class="margin-bottom-15">Get in touch wwith us to know more about our organisation.</p>
+                        <p class="margin-bottom-15">Get in touch with us to know more about our organisation.</p>
 
                         <ul>
                             <li>
