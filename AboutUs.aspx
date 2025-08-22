@@ -910,38 +910,89 @@
                                                 <div
                                                     class="themesflat-accordions style-1 has-icon icon-left iconstyle-1 clearfix">
                                                     <div class="accordion-item active">
-                                                        <h3 class="accordion-heading"><span class="inner">Are there any
-                                                                hosting companies you recommend?</span></h3>
+                                                        <h3 class="accordion-heading"><span class="inner">Is Wealth
+                                                                Management only for the Rich (HNWIs)?</span></h3>
                                                         <div class="accordion-content">
-                                                            <div>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                elit, sed do eiusmod tempor incididunt ut labore et
-                                                                dolore magna aliqua. Ut enim ad minim veniam, quis
-                                                                nostrud exercitation ullamco laboris.</div>
+                                                            <div>Wealth Management is open to whoever aspires for
+                                                                financial freedom. The biggest component of wealth
+                                                                management business is unit trust/mutual fund, which
+                                                                targets the masses / common people.</div>
                                                         </div>
                                                     </div>
-                                                    <!-- /.accordion-item -->
+                                                    <!-- /.accordion-item 1 -->
                                                     <div class="accordion-item">
-                                                        <h3 class="accordion-heading"><span class="inner">We use
-                                                                technology to do the job more quickly</span></h3>
+                                                        <h3 class="accordion-heading"><span class="inner">Why are wealth
+                                                                management products risky?</span></h3>
                                                         <div class="accordion-content">
-                                                            <div>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                elit, sed do eiusmod tempor incididunt ut labore et
-                                                                dolore magna aliqua. Ut enim ad minim veniam, quis
-                                                                nostrud exercitation ullamco laboris.</div>
+                                                            <div>There are risky Wealth management products (variable
+                                                                price equity fund) and conservative Wealth management
+                                                                products (capital-protected funds). The trick is to
+                                                                match the product with the risk profile of Clients and
+                                                                to maximize the risk reward equation.</div>
                                                         </div>
                                                     </div>
-                                                    <!-- /.accordion-item -->
+                                                    <!-- /.accordion-item 2 -->
                                                     <div class="accordion-item ">
-                                                        <h3 class="accordion-heading"><span class="inner">Employees are
-                                                                continually trained on safety issues</span></h3>
+                                                        <h3 class="accordion-heading"><span class="inner">What makes
+                                                                Baitulmal platform Islamic / Shari’ah compliant /
+                                                                Halal?</span></h3>
                                                         <div class="accordion-content">
-                                                            <div>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                elit, sed do eiusmod tempor incididunt ut labore et
-                                                                dolore magna aliqua. Ut enim ad minim veniam, quis
-                                                                nostrud exercitation ullamco laboris.</div>
+                                                            <div>We follow Islamic principles by; avoiding interest
+                                                                (riba), excessive uncertainty / speculation (gharar),
+                                                                gambling (maysir), investing in prohibited (haram)
+                                                                industries. Instead, we focus on ethical, asset-backed,
+                                                                and transparent investments.</div>
                                                         </div>
                                                     </div>
-                                                    <!-- /.accordion-item -->
+                                                    <!-- /.accordion-item 3 -->
+                                                    <div class="accordion-item ">
+                                                        <h3 class="accordion-heading"><span class="inner">What are some
+                                                                Halal alternatives to conventional savings
+                                                                accounts?</span></h3>
+                                                        <div class="accordion-content">
+                                                            <div>Our Islamic investment alternatives include Islamic
+                                                                annuities (pension) and investment accounts that are
+                                                                based on Profit and Loss Sharing models, such as
+                                                                Mudarabah (Profit Sharing) and Musharakah (Profit and
+                                                                Loss Sharing) accounts.</div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.accordion-item 4 -->
+                                                    <div class="accordion-item ">
+                                                        <h3 class="accordion-heading"><span class="inner">Is Islamic
+                                                                Wealth Management Limited to Investments?</span></h3>
+                                                        <div class="accordion-content">
+                                                            <div>There are non-investment products and services such as;
+                                                                advisory (such as financial planning), Wasiyyat (will),
+                                                                Waqf (endowment), and Islamic inheritance (farai’dh),
+                                                                among others.</div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.accordion-item 5 -->
+                                                    <div class="accordion-item ">
+                                                        <h3 class="accordion-heading"><span class="inner">Is Islamic
+                                                                Wealth Management only for Muslims?</span></h3>
+                                                        <div class="accordion-content">
+                                                            <div>Islamic Wealth Management is open to both Muslims and
+                                                                non-Muslims, although it bears the name “Islamic” to
+                                                                indicate that it is rooted in the Islamic faith and
+                                                                values.</div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.accordion-item 6 -->
+                                                    <div class="accordion-item ">
+                                                        <h3 class="accordion-heading"><span class="inner">Where to start
+                                                                from?</span></h3>
+                                                        <div class="accordion-content">
+                                                            <div>Reach out to us and get assigned to an Islamic
+                                                                financial advisor to guide you through Shariah-compliant
+                                                                investment options and strategies.</div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.accordion-item 7 -->
+
+
+                                                    <!-- /.accordion-item ## FUTURE UPDATES TO BE ADDED HERE-->
                                                 </div>
                                                 <!-- /.themesflat-accordion -->
                                             </div>
