@@ -267,18 +267,23 @@
                                                                     <div
                                                                         class="sep has-width w80 accent-bg margin-top-11 clearfix">
                                                                     </div>
-                                                                    <p class="sub-heading margin-top-30">Baitulmal
-                                                                        Islamic Development Limited (Baitulmal) was
-                                                                        registered on 24th March 2023 as a Company
-                                                                        limited by guarantee without Share Capital. The
-                                                                        Company was established by; the Uganda Muslim
-                                                                        Supreme Council (UMSC), House of Zakat & Waqf
-                                                                        Uganda (HZWU), and Diwan Agency to support
-                                                                        Uganda’s 2030 Agenda for Sustainable Development
-                                                                        (particularly SDG 1- No Poverty) through
-                                                                        maximization of Islamic finance social impact to
-                                                                        the active poor and productive entrepreneurs in
-                                                                        the Community.</p>
+                                                                    <p class="sub-heading margin-top-30">We are a
+                                                                        pioneering and indigenous Islamic
+                                                                        financial institution committed to delivering
+                                                                        Shari’ah-compliant wealth management services
+                                                                        with an ultimate goal of transforming
+                                                                        livelihoods of communities.<br /><br />
+                                                                        To complement Uganda’s Islamic financial
+                                                                        ecosystem, we explore the untapped investment
+                                                                        opportunities and cater for different risk,
+                                                                        return, maturity, and liquidity needs of various
+                                                                        agents in the economy.<br /><br />
+                                                                        We holistically manage our Clients’ wealth cycle
+                                                                        through a wide range of Shari’ah compliant
+                                                                        solutions including; investment management,
+                                                                        financial planning, tax planning, estate
+                                                                        planning, retirement planning, and risk
+                                                                        management among others.</p>
                                                                 </div>
                                                                 <div class="themesflat-spacer clearfix"
                                                                     data-desktop="26" data-mobile="35"
