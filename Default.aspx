@@ -267,8 +267,7 @@
                                                                     <div
                                                                         class="sep has-width w80 accent-bg margin-top-11 clearfix">
                                                                     </div>
-                                                                    <p class="sub-heading margin-top-30">We are a
-                                                                        pioneering and indigenous Islamic
+                                                                    <p class="sub-heading margin-top-30">We are a pioneering and indigenous Islamic
                                                                         financial institution committed to delivering
                                                                         Shari’ah-compliant wealth management services
                                                                         with an ultimate goal of transforming
@@ -798,23 +797,7 @@
                     <div class="container">
                         <div class="themesflat-spacer clearfix" data-desktop="29" data-mobile="35" data-smobile="35">
                         </div>
-                        <div class="themesflat-headings style-2 clearfix">
-                            <h2 class="heading">Objectives of Establishing Baitulmal</h2>
-                            <div class="sep has-width w80 accent-bg clearfix"></div>
-
-                            <ul style="list-style-type: square"><!-- Objectives updated -->
-
-                                <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01"
-                                    style="list-style-type: square">To transform lives and livelihoods of communities.
-                                </li>
-                                <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01"
-                                    style="list-style-type: square">To develop a dominant market for Baitulmal products.
-                                </li>
-                                <li class="sub-heading font-size-16 line-height-28 text-666 margin-top-27 letter-spacing-01"
-                                    style="list-style-type: square">To build an investor base for Baitulmal Uganda.</li>
-
-                            </ul>
-                        </div>
+                        <!-- objectives for establishing deleted-->
                         <div class="themesflat-spacer clearfix" data-desktop="22" data-mobile="22" data-smobile="22">
                         </div>
                         <div class="themesflat-accordions style-4 has-icon icon-right iconstyle-1 clearfix">
