@@ -1145,36 +1145,37 @@
                     <!-- END TABS -->
 
                     <!-- QUOTE -->
-                        <div class="row-quote" style="background-color:#b88114">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
-                                            data-smobile="35"></div>
-                                        <div class="themesflat-quote style-1 clearfix">
-                                            <div class="quote-item">
-                                                <div class="inner">
-                                                    <div class="heading-wrap">
-                                                        <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
-                                                    </div>
-                                                    <div class="button-wrap has-icon icon-left">
-                                                        <a href="#" class="themesflat-button bg-white small"><span>+256
-                                                                750 075300 <span class="icon"><i
-                                                                        class="autora-icon-phone-contact"></i></span></span></a>
+                            <div class="row-quote" style="background-color:#b88114">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
+                                                data-smobile="35"></div>
+                                            <div class="themesflat-quote style-1 clearfix">
+                                                <div class="quote-item">
+                                                    <div class="inner">
+                                                        <div class="heading-wrap">
+                                                            <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
+                                                        </div>
+                                                        <div class="button-wrap has-icon icon-left">
+                                                            <a href="#"
+                                                                class="themesflat-button bg-white small"><span>+256 750
+                                                                    075300 <span class="icon"><i
+                                                                            class="autora-icon-phone-contact"></i></span></span></a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
+                                                data-smobile="35"></div>
                                         </div>
-                                        <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
-                                            data-smobile="35"></div>
+                                        <!-- /.col-md-12 -->
                                     </div>
-                                    <!-- /.col-md-12 -->
+                                    <!-- /.row -->
                                 </div>
-                                <!-- /.row -->
+                                <!-- /.container -->
                             </div>
-                            <!-- /.container -->
-                        </div>
-                        <!-- END QUOTE -->
+                            <!-- END QUOTE -->
                          <!-- "our team" replaced with yellow "contact us"-->
                     </div>
                     <!-- /.page-content -->
