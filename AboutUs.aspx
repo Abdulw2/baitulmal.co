@@ -476,28 +476,30 @@
                                             <div class="tab-content-wrap clearfix">
                                                 <div class="tab-content">
                                                     <div class="item-content">
+                                                        <img src="assets/img/umsc.jpg" width="80px"
+                                                            style="float:left" />
                                                         <p>This is the mother, apex and governing body of Muslims in
                                                             Uganda, who constitute 6.5 million according to Uganda
-                                                            Bureau of statistics (UBOS). UMSC structures include; over 9
-                                                            Regional Administrative Structures for easy service delivery
-                                                            and 78 Muslim Districts, 465 Muslim Counties and over 13,000
-                                                            Mosque. It manages several Muslim-based institutions
-                                                            including; hospitals, health centres, Universities,
-                                                            post-secondary institutions, secondary schools, primary
-                                                            schools, Uganda Muslim Medical Bureau, radio and TV stations
-                                                            among others.</p>
-
+                                                            Bureau of statistics (UBOS). UMSC structures include;
+                                                            over 9 Regional Administrative Structures for easy
+                                                            service delivery and 78 Muslim Districts, 465 Muslim
+                                                            Counties and over 13,000 Mosque. It manages several
+                                                            Muslim-based institutions including; hospitals, health
+                                                            centres, Universities, post-secondary institutions,
+                                                            secondary schools, primary schools, Uganda Muslim
+                                                            Medical Bureau, radio and TV stations among others.</p>
                                                     </div>
                                                 </div>
                                                 <!-- /.tab-content -->
                                                 <div class="tab-content">
                                                     <div class="item-content">
-                                                        <p>This is a non-denominational and not for profit organization
-                                                            set up to manage and administer Zakat (obligatory dues) and
-                                                            preservation of Waqf (endowment) in accordance with the
-                                                            teaching of the Holy Quran, Hadith, Consensus and Analogy
-                                                            for the social wellbeing of Muslims and development of
-                                                            Islam.</p>
+                                                        <img src="assets/img/hoz.png" width="80px" style="float:left" />
+                                                        <p>This is a non-denominational and not for profit
+                                                            organization set up to manage and administer Zakat
+                                                            (obligatory dues) and preservation of Waqf (endowment)
+                                                            in accordance with the teaching of the Holy Quran,
+                                                            Hadith, Consensus and Analogy for the social wellbeing
+                                                            of Muslims and development of Islam.</p>
 
                                                         <%--<div
                                                             class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
@@ -505,8 +507,9 @@
                                                                 <span class="item">
                                                                     <span class="icon"><i
                                                                             class="fa fa-check-square"></i></span>
-                                                                    <span class="text">We have successfully completed
-                                                                        projects in numerous states.</span>
+                                                                    <span class="text">We have successfully
+                                                                        completed projects in numerous
+                                                                        states.</span>
                                                                 </span>
                                                             </div>
                                                     </div><!-- /.themeslat-list -->
@@ -516,7 +519,7 @@
                                                             <span class="item">
                                                                 <span class="icon"><i
                                                                         class="fa fa-check-square"></i></span>
-                                                                <span class="text">We are licensed to perform general
+                                                                <span class="text">We is licensed to perform general
                                                                     contracting work in most states. </span>
                                                             </span>
                                                         </div>
@@ -537,24 +540,27 @@
                                             <!-- /.tab-content -->
                                             <div class="tab-content">
                                                 <div class="item-content">
+                                                    <img src="assets/img/diwan.png" width="80px" style="float:left" />
                                                     <p>
-                                                        This is a one-stop centre for Islamic finance sector development
-                                                        through training, research and publication, and Shari’ah
-                                                        advisory services in areas of finance, zakat, waqf, and estate
-                                                        management.
-                                                        Diwan agency plays a vital role in the development of Islamic
-                                                        finance industry in Uganda through advisory, training and
-                                                        development of Human capital in the field of Islamic finance and
-                                                        Shari’ah. Diwan’s commitment to excellence has strengthened its
-                                                        position as the top provider of quality training across all
-                                                        major Islamic finance disciplines.
+                                                        This is a one-stop centre for Islamic finance sector
+                                                        development through training, research and publication, and
+                                                        Shari’ah advisory services in areas of finance, zakat, waqf,
+                                                        and estate management.
+                                                        Diwan agency plays a vital role in the development of
+                                                        Islamic finance industry in Uganda through advisory,
+                                                        training and development of Human capital in the field of
+                                                        Islamic finance and Shari’ah. Diwan’s commitment to
+                                                        excellence has strengthened its position as the top provider
+                                                        of quality training across all major Islamic finance
+                                                        disciplines.
                                                         Diwan agency training arm specializes in industry technical
                                                         certifications. The certifications are designed to ensure
                                                         attainment of technical proficiency levels to fulfil jobs
                                                         requirement and support professionalization of the industry.
-                                                        Diwan serves as a partner to numerous world class institutions;
-                                                        delivering thought leadership, research, advisory, assessment
-                                                        and training in various Islamic finance fields.
+                                                        Diwan serves as a partner to numerous world class
+                                                        institutions; delivering thought leadership, research,
+                                                        advisory, assessment and training in various Islamic finance
+                                                        fields.
                                                     </p>
                                                     <%--<div
                                                         class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
@@ -593,6 +599,7 @@
                                     </div>
                                     <!-- /.tab-content-wrap -->
                                 </div>
+                                <!-- added partners with logos in the way it was done with default.aspx -->
                                 <!-- /.themesflat-tabs -->
                             </div>
                             <!-- /.themesflat-content-box -->
