@@ -71,6 +71,7 @@
 
                         <li id="3" class="menu-item menu-item-has-children nv">
                             <a href="http://baitulmaluganda.com">WEBMAIL</a>
+                            <!--url updated from baitulmal.co to baitulmaluganda.com-->
 
                         </li>
 

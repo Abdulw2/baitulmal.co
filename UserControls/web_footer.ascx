@@ -73,6 +73,7 @@
 
                         <li><a href="http://baitulmaluganda.com" style="color:#999">Webmail</a></li>
                     </ul>
+                    <!--url updated from baitulmal.co to baitulmaluganda.com-->
                 </div>
             </div>
             <!-- /.col -->
