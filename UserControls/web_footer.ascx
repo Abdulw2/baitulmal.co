@@ -71,7 +71,7 @@
                         <li><a href="Objectives.aspx" style="color:#999">Objectives</a></li>
                         <li><a href="#" style="color:#999">FAQ</a></li>
 
-                        <li><a href="https://webmail.baitulmal.co" style="color:#999">Webmail</a></li>
+                        <li><a href="http://baitulmaluganda.com" style="color:#999">Webmail</a></li>
                     </ul>
                 </div>
             </div>

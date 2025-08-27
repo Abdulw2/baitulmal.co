@@ -70,7 +70,7 @@
                         </li>
 
                         <li id="3" class="menu-item menu-item-has-children nv">
-                            <a href="https://webmail.baitulmal.co">WEBMAIL</a>
+                            <a href="http://baitulmaluganda.com">WEBMAIL</a>
 
                         </li>
 
