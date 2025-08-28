@@ -826,121 +826,122 @@
                                         data-auto="true">
                                         <div class="row">
 
-                                            <div class="col-md-3">
-                                                <div class="themesflat-team style-1 align-center clearfix">
-                                                    <div class="team-item">
-                                                        <div class="inner">
-                                                            <div class="thumb data-effect-item">
-                                                                <img src="assets/img/lutta.jpg" alt="Image">
-                                                                <ul class="socials clearfix">
-                                                                    <li class="facebook"><a href="#"><i
-                                                                                class="autora-icon-facebook"></i></a>
-                                                                    </li>
-                                                                    <li class="twitter"><a href="#"><i
-                                                                                class="autora-icon-twitter"></i></a>
-                                                                    </li>
-                                                                    <li class="camera"><a href="#"><i
-                                                                                class="autora-icon-camera-outline"></i></a>
-                                                                    </li>
-                                                                </ul>
-                                                                <div class="overlay-effect bg-color-4"></div>
-                                                            </div>
-                                                            <div class="text-wrap">
-                                                                <h6 class="name">Musoke Jamadah Lutta</h6>
-                                                                <div class="position">Chairman Board of Directors</div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="themesflat-team style-1 align-center clearfix">
-                                                    <div class="team-item">
-                                                        <div class="inner">
-                                                            <div class="thumb data-effect-item">
-                                                                <img src="assets/img/aluma.jpg" alt="Image">
-                                                                <ul class="socials clearfix">
-                                                                    <li class="facebook"><a href="#"><i
-                                                                                class="autora-icon-facebook"></i></a>
-                                                                    </li>
-                                                                    <li class="twitter"><a href="#"><i
-                                                                                class="autora-icon-twitter"></i></a>
-                                                                    </li>
-                                                                    <li class="camera"><a href="#"><i
-                                                                                class="autora-icon-camera-outline"></i></a>
-                                                                    </li>
-                                                                </ul>
-                                                                <div class="overlay-effect bg-color-4"></div>
-                                                            </div>
-                                                            <div class="text-wrap">
-                                                                <h6 class="name">Aluma Muhamad Ali</h6>
-                                                                <div class="position">Director</div>
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/lujja.jpg" alt="Image">
+                                                                    <ul class="socials clearfix">
+                                                                        <li class="facebook"><a href="#"><i
+                                                                                    class="autora-icon-facebook"></i></a>
+                                                                        </li>
+                                                                        <li class="twitter"><a href="#"><i
+                                                                                    class="autora-icon-twitter"></i></a>
+                                                                        </li>
+                                                                        <li class="camera"><a href="#"><i
+                                                                                    class="autora-icon-camera-outline"></i></a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Lujja Sulaiman</h6>
+                                                                    <div class="position">CEO</div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <!-- /.themesflat-team -->
                                                 </div>
-                                                <!-- /.themesflat-team -->
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="themesflat-team style-1 align-center clearfix">
-                                                    <div class="team-item">
-                                                        <div class="inner">
-                                                            <div class="thumb data-effect-item">
-                                                                <img src="assets/img/jamidah.jpg" alt="Image">
-                                                                <ul class="socials clearfix">
-                                                                    <li class="facebook"><a href="#"><i
-                                                                                class="autora-icon-facebook"></i></a>
-                                                                    </li>
-                                                                    <li class="twitter"><a href="#"><i
-                                                                                class="autora-icon-twitter"></i></a>
-                                                                    </li>
-                                                                    <li class="camera"><a href="#"><i
-                                                                                class="autora-icon-camera-outline"></i></a>
-                                                                    </li>
-                                                                </ul>
-                                                                <div class="overlay-effect bg-color-4"></div>
-                                                            </div>
-                                                            <div class="text-wrap">
-                                                                <h6 class="name">Nakirijja Jamidah</h6>
-                                                                <div class="position">Director/Programs Director</div>
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/lutta.jpg" alt="Image">
+                                                                    <ul class="socials clearfix">
+                                                                        <li class="facebook"><a href="#"><i
+                                                                                    class="autora-icon-facebook"></i></a>
+                                                                        </li>
+                                                                        <li class="twitter"><a href="#"><i
+                                                                                    class="autora-icon-twitter"></i></a>
+                                                                        </li>
+                                                                        <li class="camera"><a href="#"><i
+                                                                                    class="autora-icon-camera-outline"></i></a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Musoke Jamadah Lutta</h6>
+                                                                    <div class="position">Chairman Board of Directors
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <!-- /.themesflat-team -->
                                                 </div>
-                                                <!-- /.themesflat-team -->
-                                            </div>
-                                            <div class="col-md-3">
-                                                <div class="themesflat-team style-1 align-center clearfix">
-                                                    <div class="team-item">
-                                                        <div class="inner">
-                                                            <div class="thumb data-effect-item">
-                                                                <img src="assets/img/lujja.jpg" alt="Image">
-                                                                <ul class="socials clearfix">
-                                                                    <li class="facebook"><a href="#"><i
-                                                                                class="autora-icon-facebook"></i></a>
-                                                                    </li>
-                                                                    <li class="twitter"><a href="#"><i
-                                                                                class="autora-icon-twitter"></i></a>
-                                                                    </li>
-                                                                    <li class="camera"><a href="#"><i
-                                                                                class="autora-icon-camera-outline"></i></a>
-                                                                    </li>
-                                                                </ul>
-                                                                <div class="overlay-effect bg-color-4"></div>
-                                                            </div>
-                                                            <div class="text-wrap">
-                                                                <h6 class="name">Lujja Sulaiman</h6>
-                                                                <div class="position">CEO</div>
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/jamidah.jpg" alt="Image">
+                                                                    <ul class="socials clearfix">
+                                                                        <li class="facebook"><a href="#"><i
+                                                                                    class="autora-icon-facebook"></i></a>
+                                                                        </li>
+                                                                        <li class="twitter"><a href="#"><i
+                                                                                    class="autora-icon-twitter"></i></a>
+                                                                        </li>
+                                                                        <li class="camera"><a href="#"><i
+                                                                                    class="autora-icon-camera-outline"></i></a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Nakirijja Jamidah</h6>
+                                                                    <div class="position">Director/Programs Director
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <!-- /.themesflat-team -->
                                                 </div>
-                                                <!-- /.themesflat-team -->
-                                            </div>
-
-                                        </div>
-                                        <!-- /.owl-carousel -->
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/aluma.jpg" alt="Image">
+                                                                    <ul class="socials clearfix">
+                                                                        <li class="facebook"><a href="#"><i
+                                                                                    class="autora-icon-facebook"></i></a>
+                                                                        </li>
+                                                                        <li class="twitter"><a href="#"><i
+                                                                                    class="autora-icon-twitter"></i></a>
+                                                                        </li>
+                                                                        <li class="camera"><a href="#"><i
+                                                                                    class="autora-icon-camera-outline"></i></a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Aluma Muhamad Ali</h6>
+                                                                    <div class="position">Director</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                     <!-- team arranged based on hierarchy -->
+                                                </div>
+                                            <!-- /.owl-carousel -->
                                     </div>
                                     <!-- /.themesflat-carousel -->
                                     <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
