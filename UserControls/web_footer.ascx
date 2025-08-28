@@ -9,8 +9,9 @@
                 <div class="widget widget_text">
                     <div class="textwidget">
                         <p>
-                            <img src="assets/img/logo.png" alt="Image" width="80">
+                            <img src="assets/img/Baitulmal-Logo-no-txt.png" alt="Image" width="80">
                         </p>
+                        <!--formerly assets/img/logo.png -->
 
                         <p class="margin-bottom-15">The Company was established by; the Uganda Muslim Supreme Council (UMSC), House of Zakat & Waqf Uganda (HZWU), and Diwan Agency to support Uganda’s 2030 Agenda for Sustainable Development through maximization of Islamic finance social impact to the active poor and productive entrepreneurs in the Community.</p>
 

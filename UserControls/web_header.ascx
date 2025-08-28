@@ -38,9 +38,10 @@
                 <div id="site-logo" class="clearfix">
                     <div id="site-log-inner">
                         <a href="Default.aspx" rel="home" class="main-logo">
-                            <img src="assets/img/logo2.png" alt="Autora" width="75px">
+                            <img src="assets/img/Baitulmal-Logo-with-txt.png" alt="Autora" width="75px">
                         </a>
                     </div>
+                    <!-- Formerly assets/img/logo2.png -->
                 </div>
                 <!-- /#site-logo -->
 

@@ -44,7 +44,7 @@
                 <div id="wrapper" class="animsition">
                     <div id="page" class="clearfix">
                         <!-- Header Wrap -->
-                        <uc:Header runat="server" />
+                        <uc:Header runat="server" /> 
 
                         <!-- Featured Title -->
                         <div id="featured-title" class="featured-title clearfix">
