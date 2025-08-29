@@ -806,32 +806,35 @@
                         <!-- End Objectives -->
                         <!-- re organizing starts here . our team /partners / contact us for partnership -->
                         <!-- TEAM -->
-                    <div class="row-team">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="themesflat-spacer clearfix" data-desktop="61" data-mobile="60"
-                                        data-smobile="60"></div>
-                                    <div class="themesflat-headings style-1 text-center clearfix">
-                                        <h2 class="heading">OUR TEAM</h2>
+                        <div class="row-team">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="themesflat-spacer clearfix" data-desktop="61" data-mobile="60"
+                                            data-smobile="60"></div>
+                                        <div class="themesflat-headings style-1 text-center clearfix">
+                                            <h2 class="heading">OUR TEAM</h2>
 
-                                        <%--<p class="sub-heading font-weight-400 text-808 max-width-680">With us you
-                                            will have the peace of mind knowing that your dream home project is in the
-                                            hands of a licensed fully insured building company.</p>
-                                    </div>--%>
-                                    <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="35"
-                                        data-smobile="35"></div>
-                                    <div class="themesflat-carousel-box data-effect has-bullets bullet-circle bullet24 clearfix"
-                                        data-gap="30" data-column="3" data-column2="2" data-column3="1"
-                                        data-auto="true">
-                                        <div class="row">
+                                            <%--<p class="sub-heading font-weight-400 text-808 max-width-680">With us
+                                                you
+                                                will have the peace of mind knowing that your dream home project is in
+                                                the
+                                                hands of a licensed fully insured building company.</p>
+                                        </div>--%>
+                                        <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="35"
+                                            data-smobile="35"></div>
+                                        <div class="themesflat-carousel-box data-effect has-bullets bullet-circle bullet24 clearfix"
+                                            data-gap="30" data-column="3" data-column2="2" data-column3="1"
+                                            data-auto="true">
+                                            <div class="row">
 
                                                 <div class="col-md-3">
                                                     <div class="themesflat-team style-1 align-center clearfix">
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Hajji. Musoke Jamadah Lutta.jpg" alt="Image">
+                                                                    <img src="assets/img/Hajji. Musoke Jamadah Lutta.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -852,10 +855,11 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Dr. Lujja Sulaiman.jpg" alt="Image">
+                                                                    <img src="assets/img/Dr. Lujja Sulaiman.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                         <!-- social media icons to be replaced with descripton of the individual -->
+                                                                        <!-- social media icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
@@ -874,10 +878,11 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Nabukenya Faridah.jpg" alt="Image">
+                                                                    <img src="assets/img/Nabukenya Faridah.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                          <!-- social media icons to be replaced with descripton of the individual -->
+                                                                        <!-- social media icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
@@ -896,10 +901,11 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Hajjat Nakirijja Jamidah.jpg" alt="Image">
+                                                                    <img src="assets/img/Hajjat Nakirijja Jamidah.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                         <!-- social media icons to be replaced with descripton of the individual -->
+                                                                        <!-- social media icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
@@ -917,7 +923,8 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Muhamad Ali Aluma.jpg" alt="Image">
+                                                                    <img src="assets/img/Muhamad Ali Aluma.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -932,14 +939,15 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                    <!-- /.themesflat-team -->
-                                                    
+                                                <!-- /.themesflat-team -->
+
                                                 <div class="col-md-3">
                                                     <div class="themesflat-team style-1 align-center clearfix">
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Mr. Moses Bazibu.jpg" alt="Image">
+                                                                    <img src="assets/img/Mr. Moses Bazibu.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -953,15 +961,16 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    </div>
-                                                    <!-- /.themesflat-team -->
-                                                    
+                                                </div>
+                                                <!-- /.themesflat-team -->
+
                                                 <div class="col-md-3">
                                                     <div class="themesflat-team style-1 align-center clearfix">
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Dr. Ahmed Moses.jpg" alt="Image">
+                                                                    <img src="assets/img/Dr. Ahmed Moses.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -974,15 +983,16 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                   </div>
-                                               </div>
-                                                    <!-- /.themesflat-team -->
-                                                    <div class="col-md-3">
+                                                    </div>
+                                                </div>
+                                                <!-- /.themesflat-team -->
+                                                <div class="col-md-3">
                                                     <div class="themesflat-team style-1 align-center clearfix">
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Dr. Kiyita, M. Kyambadde.jpg" alt="Image">
+                                                                    <img src="assets/img/Dr. Kiyita, M. Kyambadde.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -995,15 +1005,16 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                   </div>
-                                               </div>
-                                                    <!-- /.themesflat-team -->
-                                                    <div class="col-md-3">
+                                                    </div>
+                                                </div>
+                                                <!-- /.themesflat-team -->
+                                                <div class="col-md-3">
                                                     <div class="themesflat-team style-1 align-center clearfix">
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Mahawuya Kabuye Kasujja.jpg" alt="Image">
+                                                                    <img src="assets/img/Mahawuya Kabuye Kasujja.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -1016,15 +1027,16 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                   </div>
-                                               </div>
-                                                    <!-- /.themesflat-team -->
-                                                     <div class="col-md-3">
+                                                    </div>
+                                                </div>
+                                                <!-- /.themesflat-team -->
+                                                <div class="col-md-3">
                                                     <div class="themesflat-team style-1 align-center clearfix">
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Sheikh. Ausi Lutaaya.jpg" alt="Image">
+                                                                    <img src="assets/img/Sheikh. Ausi Lutaaya.jpg"
+                                                                        alt="Image">
                                                                     <!-- double check assets -->
                                                                     <ul class="socials clearfix">
                                                                         <!-- icons to be replaced with descripton of the individual -->
@@ -1037,89 +1049,174 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                   </div>
-                                               </div>
-                                                    <!-- /.themesflat-team -->
-                                                     <!-- team arranged based on hierarchy -->
-                                            <!-- /.owl-carousel -->
-                                    </div>
-                                    <!-- /.themesflat-carousel -->
-                                    <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
-                                        data-smobile="60"></div>
-                                </div>
-                                <!-- /.col-md-12 -->
-                            </div>
-                            <!-- /.row -->
-                        </div>
-                        <!-- /.container -->
-                    </div>
-                    <!-- END TEAM -->
-
-                        <!-- TABS -->
-                        <div class="row-tabs">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="themesflat-spacer clearfix" data-desktop="61" data-mobile="60"
-                                            data-smobile="60"></div>
-                                    </div>
-                                    <!-- /.col-md-12 -->
-                                </div>
-                                <!-- /.row -->
-                                <div class="row">
-
-
-                                    <div class="col-md-12">
-                                        <div class="themesflat-content-box clearfix" data-margin="0 18px 0 0"
-                                            data-mobilemargin="0 0 0 0">
-                                            <div class="themesflat-headings style-1 clearfix">
-                                                <h2 class="heading">PARTNERS</h2>
-                                                <div class="sep has-width w80 accent-bg margin-top-11 clearfix"></div>
+                                                    </div>
+                                                </div>
+                                                <!-- /.themesflat-team -->
+                                                <!-- team arranged based on hierarchy -->
+                                                <!-- /.owl-carousel -->
                                             </div>
-                                            <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
-                                                data-smobile="35"></div>
-                                            <div class="themesflat-tabs style-1 clearfix">
-                                                <ul class="tab-title clearfix">
-                                                    <li class="item-title active">
-                                                        <span class="inner">Uganda Muslim Supreme Council (UMSC) </span>
-                                                    </li>
-                                                    <li class="item-title">
-                                                        <span class="inner">House of Zakat & Waqf Uganda (HZWU)</span>
-                                                    </li>
-                                                    <li class="item-title">
-                                                        <span class="inner">Diwan Agency </span>
-                                                    </li>
-                                                </ul>
+                                            <!-- /.themesflat-carousel -->
+                                            <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
+                                                data-smobile="60"></div>
+                                        </div>
+                                        <!-- /.col-md-12 -->
+                                    </div>
+                                    <!-- /.row -->
+                                </div>
+                                <!-- /.container -->
+                            </div>
+                            <!-- END TEAM -->
 
-                                                <div class="tab-content-wrap clearfix">
-                                                    <div class="tab-content">
-                                                        <div class="item-content">
-                                                            <img src="assets/img/umsc.jpg" width="80px"
-                                                                style="float:left" />
-                                                            <p>This is the mother, apex and governing body of Muslims in
-                                                                Uganda, who constitute 6.5 million according to Uganda
-                                                                Bureau of statistics (UBOS). UMSC structures include;
-                                                                over 9 Regional Administrative Structures for easy
-                                                                service delivery and 78 Muslim Districts, 465 Muslim
-                                                                Counties and over 13,000 Mosque. It manages several
-                                                                Muslim-based institutions including; hospitals, health
-                                                                centres, Universities, post-secondary institutions,
-                                                                secondary schools, primary schools, Uganda Muslim
-                                                                Medical Bureau, radio and TV stations among others.</p>
+                            <!-- TABS -->
+                            <div class="row-tabs">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="themesflat-spacer clearfix" data-desktop="61" data-mobile="60"
+                                                data-smobile="60"></div>
+                                        </div>
+                                        <!-- /.col-md-12 -->
+                                    </div>
+                                    <!-- /.row -->
+                                    <div class="row">
+
+
+                                        <div class="col-md-12">
+                                            <div class="themesflat-content-box clearfix" data-margin="0 18px 0 0"
+                                                data-mobilemargin="0 0 0 0">
+                                                <div class="themesflat-headings style-1 clearfix">
+                                                    <h2 class="heading">PARTNERS</h2>
+                                                    <div class="sep has-width w80 accent-bg margin-top-11 clearfix">
+                                                    </div>
+                                                </div>
+                                                <div class="themesflat-spacer clearfix" data-desktop="38"
+                                                    data-mobile="35" data-smobile="35"></div>
+                                                <div class="themesflat-tabs style-1 clearfix">
+                                                    <ul class="tab-title clearfix">
+                                                        <li class="item-title active">
+                                                            <span class="inner">Uganda Muslim Supreme Council (UMSC)
+                                                            </span>
+                                                        </li>
+                                                        <li class="item-title">
+                                                            <span class="inner">House of Zakat & Waqf Uganda
+                                                                (HZWU)</span>
+                                                        </li>
+                                                        <li class="item-title">
+                                                            <span class="inner">Diwan Islamic Finance Agency</span>
+                                                        </li>
+                                                        <li class="item-title">
+                                                            <span class="inner">Uganda Muslim Education Association
+                                                                (UMEA).</span>
+                                                        </li>
+                                                        <li class="item-title">
+                                                            <span class="inner">Uganda Muslim Teachers' Association
+                                                                (UMTA). </span>
+                                                        </li>
+                                                        <li class="item-title">
+                                                            <span class="inner">The Islamic Medical Association of
+                                                                Uganda (IMAU).</span>
+                                                        </li>
+                                                        <li class="item-title">
+                                                            <span class="inner">Bilal Staff Savings and Credit
+                                                                Cooperative Society (BISTSACCO)</span>
+                                                        </li>
+                                                    </ul>
+
+                                                    <div class="tab-content-wrap clearfix">
+                                                        <div class="tab-content">
+                                                            <div class="item-content">
+                                                                <img src="assets/img/Uganda Muslim Supreme Council (UMSC).png"
+                                                                    width="80px" style="float:left" />
+                                                                <p>This is the mother, apex and governing body of
+                                                                    Muslims in Uganda, who constitute 6.5 million
+                                                                    according to Uganda Bureau of statistics (UBOS).
+                                                                    UMSC structures include; over 9 Regional
+                                                                    Administrative Structures for easy service delivery
+                                                                    and 78 Muslim Districts, 465 Muslim Counties and
+                                                                    over 13,000 Mosque. It manages several Muslim-based
+                                                                    institutions including; hospitals, health centres,
+                                                                    Universities, post-secondary institutions, secondary
+                                                                    schools, primary schools, Uganda Muslim Medical
+                                                                    Bureau, radio and TV stations among others. </p>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.tab-content -->
+                                                        <div class="tab-content">
+                                                            <div class="item-content">
+                                                                <img src="assets/img/House of Zakat & Waqf Uganda (HZWU).png"
+                                                                    width="80px" style="float:left" />
+                                                                <p>This is a non-denominational and not for profit
+                                                                    organization set up to manage and administer Zakat
+                                                                    (obligatory dues) and preservation of Waqf
+                                                                    (endowment) in accordance with the teaching of the
+                                                                    Holy Quran, Hadith, Consensus and Analogy for the
+                                                                    social wellbeing of Muslims and development of
+                                                                    Islam. </p>
+
+                                                                <%--<div
+                                                                    class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
+                                                                    <div class="inner">
+                                                                        <span class="item">
+                                                                            <span class="icon"><i
+                                                                                    class="fa fa-check-square"></i></span>
+                                                                            <span class="text">We have successfully
+                                                                                completed projects in numerous
+                                                                                states.</span>
+                                                                        </span>
+                                                                    </div>
+                                                            </div><!-- /.themeslat-list -->
+                                                            <div
+                                                                class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
+                                                                <div class="inner">
+                                                                    <span class="item">
+                                                                        <span class="icon"><i
+                                                                                class="fa fa-check-square"></i></span>
+                                                                        <span class="text">We are licensed to perform
+                                                                            general
+                                                                            contracting work in most states. </span>
+                                                                    </span>
+                                                                </div>
+                                                            </div><!-- /.themeslat-list -->
+                                                            <div
+                                                                class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
+                                                                <div class="inner">
+                                                                    <span class="item">
+                                                                        <span class="icon"><i
+                                                                                class="fa fa-check-square"></i></span>
+                                                                        <span class="text">We will be open to obtaining
+                                                                            new
+                                                                            licensing if an opportunity arises</span>
+                                                                    </span>
+                                                                </div>
+                                                            </div>--%><!-- /.themeslat-list -->
                                                         </div>
                                                     </div>
                                                     <!-- /.tab-content -->
                                                     <div class="tab-content">
                                                         <div class="item-content">
-                                                            <img src="assets/img/hoz.png" width="80px"
-                                                                style="float:left" />
-                                                            <p>This is a non-denominational and not for profit
-                                                                organization set up to manage and administer Zakat
-                                                                (obligatory dues) and preservation of Waqf (endowment)
-                                                                in accordance with the teaching of the Holy Quran,
-                                                                Hadith, Consensus and Analogy for the social wellbeing
-                                                                of Muslims and development of Islam.</p>
-
+                                                            <img src="assets/img/Diwan Islamic Finance Agency.png"
+                                                                width="80px" style="float:left" />
+                                                            <p>
+                                                                This is a one-stop centre for Islamic finance sector
+                                                                development through training, research and publication,
+                                                                and Shari’ah advisory services in areas of finance,
+                                                                zakat, waqf, and estate management. Diwan agency plays a
+                                                                vital role in the development of Islamic finance
+                                                                industry in Uganda through advisory, training and
+                                                                development of Human capital in the field of Islamic
+                                                                finance and Shari’ah. Diwan’s commitment to excellence
+                                                                has strengthened its position as the top provider of
+                                                                quality training across all major Islamic finance
+                                                                disciplines. Diwan agency training arm specializes in
+                                                                industry technical certifications. The certifications
+                                                                are designed to ensure attainment of technical
+                                                                proficiency levels to fulfill jobs requirement and
+                                                                support professionalization of the industry. Diwan
+                                                                serves as a partner to numerous world class
+                                                                institutions; delivering thought leadership, research,
+                                                                advisory, assessment and training in various Islamic
+                                                                finance fields.
+                                                            </p>
                                                             <%--<div
                                                                 class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
                                                                 <div class="inner">
@@ -1127,8 +1224,8 @@
                                                                         <span class="icon"><i
                                                                                 class="fa fa-check-square"></i></span>
                                                                         <span class="text">We have successfully
-                                                                            completed projects in numerous
-                                                                            states.</span>
+                                                                            completed
+                                                                            projects in numerous states.</span>
                                                                     </span>
                                                                 </div>
                                                         </div><!-- /.themeslat-list -->
@@ -1138,7 +1235,8 @@
                                                                 <span class="item">
                                                                     <span class="icon"><i
                                                                             class="fa fa-check-square"></i></span>
-                                                                    <span class="text">We is licensed to perform general
+                                                                    <span class="text">We are licensed to perform
+                                                                        general
                                                                         contracting work in most states. </span>
                                                                 </span>
                                                             </div>
@@ -1159,125 +1257,125 @@
                                                 <!-- /.tab-content -->
                                                 <div class="tab-content">
                                                     <div class="item-content">
-                                                        <img src="assets/img/diwan.png" width="80px"
-                                                            style="float:left" />
-                                                        <p>
-                                                            This is a one-stop centre for Islamic finance sector
-                                                            development through training, research and publication, and
-                                                            Shari’ah advisory services in areas of finance, zakat, waqf,
-                                                            and estate management.
-                                                            Diwan agency plays a vital role in the development of
-                                                            Islamic finance industry in Uganda through advisory,
-                                                            training and development of Human capital in the field of
-                                                            Islamic finance and Shari’ah. Diwan’s commitment to
-                                                            excellence has strengthened its position as the top provider
-                                                            of quality training across all major Islamic finance
-                                                            disciplines.
-                                                            Diwan agency training arm specializes in industry technical
-                                                            certifications. The certifications are designed to ensure
-                                                            attainment of technical proficiency levels to fulfil jobs
-                                                            requirement and support professionalization of the industry.
-                                                            Diwan serves as a partner to numerous world class
-                                                            institutions; delivering thought leadership, research,
-                                                            advisory, assessment and training in various Islamic finance
-                                                            fields.
+                                                        <img src="assets/img/Uganda Muslim Education Association (UMEA).png"
+                                                            width="80px" style="float:left" />
+                                                        <p>This was established in 1936 to work as a Muslim Secretariat
+                                                            that serves Ugandan Muslims. It aims at providing a platform
+                                                            for Muslims to achieve sound education (modern and
+                                                            traditional Islamic studies) purposely to attain a
+                                                            reasonable share in their country as their counterparts of
+                                                            other religious affiliations.
                                                         </p>
-                                                        <%--<div
-                                                            class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
-                                                            <div class="inner">
-                                                                <span class="item">
-                                                                    <span class="icon"><i
-                                                                            class="fa fa-check-square"></i></span>
-                                                                    <span class="text">We have successfully completed
-                                                                        projects in numerous states.</span>
-                                                                </span>
-                                                            </div>
-                                                    </div><!-- /.themeslat-list -->
-                                                    <div
-                                                        class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
-                                                        <div class="inner">
-                                                            <span class="item">
-                                                                <span class="icon"><i
-                                                                        class="fa fa-check-square"></i></span>
-                                                                <span class="text">We is licensed to perform general
-                                                                    contracting work in most states. </span>
-                                                            </span>
-                                                        </div>
-                                                    </div><!-- /.themeslat-list -->
-                                                    <div
-                                                        class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
-                                                        <div class="inner">
-                                                            <span class="item">
-                                                                <span class="icon"><i
-                                                                        class="fa fa-check-square"></i></span>
-                                                                <span class="text">We will be open to obtaining new
-                                                                    licensing if an opportunity arises</span>
-                                                            </span>
-                                                        </div>
-                                                    </div>--%><!-- /.themeslat-list -->
+                                                    </div>
                                                 </div>
+                                                <!-- /.tab-content -->
+                                                <div class="tab-content">
+                                                    <div class="item-content">
+                                                        <img src="assets/img/Uganda Muslim Teachers' Association (UMTA).png"
+                                                            width="80px" style="float:left" />
+                                                        <p>
+                                                            This is an umbrella body that brings together Muslim
+                                                            teachers in Uganda so they increase access to quality
+                                                            education of the Muslim community as well as improving
+                                                            Teachers' welfare. UMTA was established in 1988 as a
+                                                            national non-governmental not for profit organisation
+                                                            working across the country. UMTA units Muslim teachers
+                                                            irrespective of their social and political affiliation.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /.tab-content -->
+                                                <div class="tab-content">
+                                                    <div class="item-content">
+                                                        <img src="assets/img/The Islamic Medical Association of Uganda (IMAU).png"
+                                                            width="80px" style="float:left" />
+                                                        <p>This is a registered non-governmental organization
+                                                            established in 1988. The membership of the Association
+                                                            consists of Muslim health professionals who form the General
+                                                            Assembly, the association’s highest authority. IMAU targets
+                                                            all people of Uganda but with a comparative advantage with
+                                                            Islamic communities. </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /.tab-content -->
+                                                <div class="tab-content">
+                                                    <div class="item-content">
+                                                        <img src="assets/img/Bilal Staff Savings and Credit Cooperative Society (BISTSACCO).png"
+                                                            width="80px" style="float:left" />
+                                                        <p> SACCOs in Various Institutions.
+
+                                                            We establish Islamic financial cooperatives (Baitulmal Wat
+                                                            Tamwil) in different institutions who are our implementing
+                                                            partners established as standalone or Windows in
+                                                            conventional financial institutions including; Cooperatives,
+                                                            Savings and Credit Cooperative Societies (SACCOs), Groups,
+                                                            Microfinance Institutions (MFIs), Small and Median
+                                                            Enterprises (SMEs), and other development institutions.
+                                                            One of the model reference SACCOs we have supported is Bilal
+                                                            Staff Savings and Credit Cooperative Society (BISTSACCO)
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /.tab-content -->
+                                                <!-- 7 tabs updated -->
                                             </div>
-                                            <!-- /.tab-content -->
+                                            <!-- /.tab-content-wrap -->
                                         </div>
-                                        <!-- /.tab-content-wrap -->
                                     </div>
-                                    <!-- /.themesflat-tabs -->
+                                    <!-- /.themesflat-content-box -->
                                 </div>
-                                <!-- /.themesflat-content-box -->
+                                <!-- /.col-md-6 -->
+
+
+
+
                             </div>
-                            <!-- /.col-md-6 -->
-
-
-
-
-                        </div>
-                        <!-- /.row -->
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0"
-                                    data-smobile="0"></div>
+                            <!-- /.row -->
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0"
+                                        data-smobile="0"></div>
+                                </div>
+                                <!-- /.col-md-12 -->
                             </div>
-                            <!-- /.col-md-12 -->
+                            <!-- /.row -->
                         </div>
-                        <!-- /.row -->
-                    </div>
-                    <!-- /.container -->
+                        <!-- /.container -->
                     </div>
                     <!-- END TABS -->
 
                     <!-- QUOTE -->
-                            <div class="row-quote" style="background-color:#b88114">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
-                                                data-smobile="35"></div>
-                                            <div class="themesflat-quote style-1 clearfix">
-                                                <div class="quote-item">
-                                                    <div class="inner">
-                                                        <div class="heading-wrap">
-                                                            <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
-                                                        </div>
-                                                        <div class="button-wrap has-icon icon-left">
-                                                            <a href="#"
-                                                                class="themesflat-button bg-white small"><span>+256 750
-                                                                    075300 <span class="icon"><i
-                                                                            class="autora-icon-phone-contact"></i></span></span></a>
-                                                        </div>
-                                                    </div>
+                    <div class="row-quote" style="background-color:#b88114">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
+                                        data-smobile="35"></div>
+                                    <div class="themesflat-quote style-1 clearfix">
+                                        <div class="quote-item">
+                                            <div class="inner">
+                                                <div class="heading-wrap">
+                                                    <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
+                                                </div>
+                                                <div class="button-wrap has-icon icon-left">
+                                                    <a href="#" class="themesflat-button bg-white small"><span>+256 750
+                                                            075300 <span class="icon"><i
+                                                                    class="autora-icon-phone-contact"></i></span></span></a>
                                                 </div>
                                             </div>
-                                            <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
-                                                data-smobile="35"></div>
                                         </div>
-                                        <!-- /.col-md-12 -->
                                     </div>
-                                    <!-- /.row -->
+                                    <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
+                                        data-smobile="35"></div>
                                 </div>
-                                <!-- /.container -->
+                                <!-- /.col-md-12 -->
                             </div>
-                            <!-- END QUOTE -->
-                         <!-- "our team" replaced with yellow "contact us"-->
+                            <!-- /.row -->
+                        </div>
+                        <!-- /.container -->
+                    </div>
+                    <!-- END QUOTE -->
+                    <!-- "our team" replaced with yellow "contact us"-->
                     </div>
                     <!-- /.page-content -->
 
