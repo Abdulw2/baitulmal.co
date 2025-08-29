@@ -831,23 +831,16 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/lujja.jpg" alt="Image">
+                                                                    <img src="assets/img/Hajji. Musoke Jamadah Lutta.jpg" alt="Image">
+                                                                    <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                        <li class="facebook"><a href="#"><i
-                                                                                    class="autora-icon-facebook"></i></a>
-                                                                        </li>
-                                                                        <li class="twitter"><a href="#"><i
-                                                                                    class="autora-icon-twitter"></i></a>
-                                                                        </li>
-                                                                        <li class="camera"><a href="#"><i
-                                                                                    class="autora-icon-camera-outline"></i></a>
-                                                                        </li>
+                                                                        <!-- icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
                                                                 <div class="text-wrap">
-                                                                    <h6 class="name">Lujja Sulaiman</h6>
-                                                                    <div class="position">CEO</div>
+                                                                    <h6 class="name">Hajji Musoke Jamadah Lutta</h6>
+                                                                    <div class="position">Board Chairman</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -859,23 +852,16 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/lutta.jpg" alt="Image">
+                                                                    <img src="assets/img/Dr. Lujja Sulaiman.jpg" alt="Image">
+                                                                    <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                        <li class="facebook"><a href="#"><i
-                                                                                    class="autora-icon-facebook"></i></a>
-                                                                        </li>
-                                                                        <li class="twitter"><a href="#"><i
-                                                                                    class="autora-icon-twitter"></i></a>
-                                                                        </li>
-                                                                        <li class="camera"><a href="#"><i
-                                                                                    class="autora-icon-camera-outline"></i></a>
-                                                                        </li>
+                                                                         <!-- social media icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
                                                                 <div class="text-wrap">
-                                                                    <h6 class="name">Musoke Jamadah Lutta</h6>
-                                                                    <div class="position">Chairman Board of Directors
+                                                                    <h6 class="name">Dr. Lujja Sulaiman (CSAA)</h6>
+                                                                    <div class="position">Managing Director
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -888,23 +874,16 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/jamidah.jpg" alt="Image">
+                                                                    <img src="assets/img/Nabukenya Faridah.jpg" alt="Image">
+                                                                    <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                        <li class="facebook"><a href="#"><i
-                                                                                    class="autora-icon-facebook"></i></a>
-                                                                        </li>
-                                                                        <li class="twitter"><a href="#"><i
-                                                                                    class="autora-icon-twitter"></i></a>
-                                                                        </li>
-                                                                        <li class="camera"><a href="#"><i
-                                                                                    class="autora-icon-camera-outline"></i></a>
-                                                                        </li>
+                                                                          <!-- social media icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
                                                                 <div class="text-wrap">
-                                                                    <h6 class="name">Nakirijja Jamidah</h6>
-                                                                    <div class="position">Director/Programs Director
+                                                                    <h6 class="name">Nabukenya Faridah</h6>
+                                                                    <div class="position">Executive Director
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -917,30 +896,151 @@
                                                         <div class="team-item">
                                                             <div class="inner">
                                                                 <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/aluma.jpg" alt="Image">
+                                                                    <img src="assets/img/Hajjat Nakirijja Jamidah.jpg" alt="Image">
+                                                                    <!-- double check assets -->
                                                                     <ul class="socials clearfix">
-                                                                        <li class="facebook"><a href="#"><i
-                                                                                    class="autora-icon-facebook"></i></a>
-                                                                        </li>
-                                                                        <li class="twitter"><a href="#"><i
-                                                                                    class="autora-icon-twitter"></i></a>
-                                                                        </li>
-                                                                        <li class="camera"><a href="#"><i
-                                                                                    class="autora-icon-camera-outline"></i></a>
-                                                                        </li>
+                                                                         <!-- social media icons to be replaced with descripton of the individual -->
                                                                     </ul>
                                                                     <div class="overlay-effect bg-color-4"></div>
                                                                 </div>
                                                                 <div class="text-wrap">
-                                                                    <h6 class="name">Aluma Muhamad Ali</h6>
+                                                                    <h6 class="name">Hajjat Nakirijja Jamidah</h6>
+                                                                    <div class="position">Director & Secretary</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/Muhamad Ali Aluma.jpg" alt="Image">
+                                                                    <!-- double check assets -->
+                                                                    <ul class="socials clearfix">
+                                                                        <!-- icons to be replaced with descripton of the individual -->
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Muhamad Ali Aluma</h6>
+                                                                    <div class="position">Board Member</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                    <!-- /.themesflat-team -->
+                                                    
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/Mr. Moses Bazibu.jpg" alt="Image">
+                                                                    <!-- double check assets -->
+                                                                    <ul class="socials clearfix">
+                                                                        <!-- icons to be replaced with descripton of the individual -->
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Mr. Moses Bazibu</h6>
                                                                     <div class="position">Director</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                    
+                                                <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/Dr. Ahmed Moses.jpg" alt="Image">
+                                                                    <!-- double check assets -->
+                                                                    <ul class="socials clearfix">
+                                                                        <!-- icons to be replaced with descripton of the individual -->
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Dr. Ahmed Moses</h6>
+                                                                    <div class="position">Consultant</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                   </div>
+                                               </div>
+                                                    <!-- /.themesflat-team -->
+                                                    <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/Dr. Kiyita, M. Kyambadde.jpg" alt="Image">
+                                                                    <!-- double check assets -->
+                                                                    <ul class="socials clearfix">
+                                                                        <!-- icons to be replaced with descripton of the individual -->
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Dr. Kiyita M. Kyambadde (FCCA)</h6>
+                                                                    <div class="position">Consultant</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                   </div>
+                                               </div>
+                                                    <!-- /.themesflat-team -->
+                                                    <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/Mahawuya Kabuye Kasujja.jpg" alt="Image">
+                                                                    <!-- double check assets -->
+                                                                    <ul class="socials clearfix">
+                                                                        <!-- icons to be replaced with descripton of the individual -->
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Mahawuya Kabuye Kasujja (FCCA)</h6>
+                                                                    <div class="position">Consultant</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                   </div>
+                                               </div>
+                                                    <!-- /.themesflat-team -->
+                                                     <div class="col-md-3">
+                                                    <div class="themesflat-team style-1 align-center clearfix">
+                                                        <div class="team-item">
+                                                            <div class="inner">
+                                                                <div class="thumb data-effect-item">
+                                                                    <img src="assets/img/Sheikh. Ausi Lutaaya.jpg" alt="Image">
+                                                                    <!-- double check assets -->
+                                                                    <ul class="socials clearfix">
+                                                                        <!-- icons to be replaced with descripton of the individual -->
+                                                                    </ul>
+                                                                    <div class="overlay-effect bg-color-4"></div>
+                                                                </div>
+                                                                <div class="text-wrap">
+                                                                    <h6 class="name">Sheikh Ausi Lutaaya</h6>
+                                                                    <div class="position">Shari’ah Advisor</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                   </div>
+                                               </div>
                                                     <!-- /.themesflat-team -->
                                                      <!-- team arranged based on hierarchy -->
-                                                </div>
                                             <!-- /.owl-carousel -->
                                     </div>
                                     <!-- /.themesflat-carousel -->
