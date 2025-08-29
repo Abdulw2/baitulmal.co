@@ -502,9 +502,10 @@
                                             <!-- /.tab-content -->
                                             <div class="tab-content">
                                                 <div class="item-content">
-                                                    <img src="assets/img/House of Zakat and Waqf Uganda (HZWU).png"--> 
-                                                    <!-- avoid using symbols for img files. file wont show -->
+                                                    <img src="assets/img/House of Zakat and Waqf Uganda (HZWU).png" 
+                                                    
                                                         width="80px" style="float:left" />
+                                                        <!-- avoid using symbols for img files. file wont show -->
                                                     <p>This is a non-denominational and not for profit organization set
                                                         up to manage and administer Zakat (obligatory dues) and
                                                         preservation of Waqf (endowment) in accordance with the teaching
