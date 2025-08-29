@@ -1145,15 +1145,17 @@
                                                             <div class="item-content">
                                                                 <img src="assets/img/House of Zakat and Waqf Uganda (HZWU).png"
                                                                     width="80px" style="float:left" />
-                                                                    <!-- avoid using symbols for img files. file wont show -->
-                                                                <p>This is a non-denominational and not for profit
+                                                                <!-- avoid using symbols for img files. file wont show -->
+                                                                <p style="margin-bottom: 30px;">
+                                                                    This is a non-denominational and not for profit
                                                                     organization set up to manage and administer Zakat
                                                                     (obligatory dues) and preservation of Waqf
                                                                     (endowment) in accordance with the teaching of the
                                                                     Holy Quran, Hadith, Consensus and Analogy for the
                                                                     social wellbeing of Muslims and development of
-                                                                    Islam. </p>
-
+                                                                    Islam.
+                                                                </p>
+                                                                <!-- Added margin-bottom style here to create gap after paragraph -->
                                                                 <div
                                                                     class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
                                                                     <div class="inner">
@@ -1165,9 +1167,84 @@
                                                                                 states.</span>
                                                                         </span>
                                                                     </div>
+                                                                </div>
+                                                                <!-- avoid using symbols for img files. file wont show -->
+                                                                <!-- /.themeslat-list -->
+                                                                <div
+                                                                    class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
+                                                                    <div class="inner">
+                                                                        <span class="item">
+                                                                            <span class="icon"><i
+                                                                                    class="fa fa-check-square"></i></span>
+                                                                            <span class="text">We are licensed to
+                                                                                perform
+                                                                                general
+                                                                                contracting work in most states. </span>
+                                                                        </span>
+                                                                    </div>
+                                                                </div><!-- /.themeslat-list -->
+                                                                <div
+                                                                    class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
+                                                                    <div class="inner">
+                                                                        <span class="item">
+                                                                            <span class="icon"><i
+                                                                                    class="fa fa-check-square"></i></span>
+                                                                            <span class="text">We will be open to
+                                                                                obtaining
+                                                                                new
+                                                                                licensing if an opportunity
+                                                                                arises</span>
+                                                                        </span>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- asp code comments = "<%--lorem ipsum --%> -->
+                                                                <!-- /.themeslat-list -->
                                                             </div>
-                                                            <!-- avoid using symbols for img files. file wont show -->
-                                                             <!-- /.themeslat-list -->
+                                                        </div>
+                                                        <!-- /.tab-content -->
+                                                        <div class="tab-content">
+                                                            <div class="item-content">
+                                                                <img src="assets/img/Diwan Islamic Finance Agency.png"
+                                                                    width="80px" style="float:left" />
+                                                                <p>
+                                                                    This is a one-stop centre for Islamic finance sector
+                                                                    development through training, research and
+                                                                    publication,
+                                                                    and Shari’ah advisory services in areas of finance,
+                                                                    zakat, waqf, and estate management. Diwan agency
+                                                                    plays a
+                                                                    vital role in the development of Islamic finance
+                                                                    industry in Uganda through advisory, training and
+                                                                    development of Human capital in the field of Islamic
+                                                                    finance and Shari’ah. Diwan’s commitment to
+                                                                    excellence
+                                                                    has strengthened its position as the top provider of
+                                                                    quality training across all major Islamic finance
+                                                                    disciplines. Diwan agency training arm specializes
+                                                                    in
+                                                                    industry technical certifications. The
+                                                                    certifications
+                                                                    are designed to ensure attainment of technical
+                                                                    proficiency levels to fulfill jobs requirement and
+                                                                    support professionalization of the industry. Diwan
+                                                                    serves as a partner to numerous world class
+                                                                    institutions; delivering thought leadership,
+                                                                    research,
+                                                                    advisory, assessment and training in various Islamic
+                                                                    finance fields.
+                                                                </p>
+                                                                <%--<div
+                                                                    class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
+                                                                    <div class="inner">
+                                                                        <span class="item">
+                                                                            <span class="icon"><i
+                                                                                    class="fa fa-check-square"></i></span>
+                                                                            <span class="text">We have successfully
+                                                                                completed
+                                                                                projects in numerous states.</span>
+                                                                        </span>
+                                                                    </div>
+                                                            </div><!-- /.themeslat-list -->
                                                             <div
                                                                 class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
                                                                 <div class="inner">
@@ -1191,196 +1268,143 @@
                                                                             licensing if an opportunity arises</span>
                                                                     </span>
                                                                 </div>
-                                                            </div>
-                                                             <!-- asp code comments = "<%--lorem ipsum --%> --> 
-                                                              <!-- /.themeslat-list -->
+                                                            </div>--%><!-- /.themeslat-list -->
                                                         </div>
                                                     </div>
                                                     <!-- /.tab-content -->
                                                     <div class="tab-content">
                                                         <div class="item-content">
-                                                            <img src="assets/img/Diwan Islamic Finance Agency.png"
+                                                            <img src="assets/img/Uganda Muslim Education Association (UMEA).png"
+                                                                width="80px" style="float:left" />
+                                                            <p>This was established in 1936 to work as a Muslim
+                                                                Secretariat
+                                                                that serves Ugandan Muslims. It aims at providing a
+                                                                platform
+                                                                for Muslims to achieve sound education (modern and
+                                                                traditional Islamic studies) purposely to attain a
+                                                                reasonable share in their country as their counterparts
+                                                                of
+                                                                other religious affiliations.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.tab-content -->
+                                                    <div class="tab-content">
+                                                        <div class="item-content">
+                                                            <img src="assets/img/Uganda Muslim Teachers' Association (UMTA).png"
                                                                 width="80px" style="float:left" />
                                                             <p>
-                                                                This is a one-stop centre for Islamic finance sector
-                                                                development through training, research and publication,
-                                                                and Shari’ah advisory services in areas of finance,
-                                                                zakat, waqf, and estate management. Diwan agency plays a
-                                                                vital role in the development of Islamic finance
-                                                                industry in Uganda through advisory, training and
-                                                                development of Human capital in the field of Islamic
-                                                                finance and Shari’ah. Diwan’s commitment to excellence
-                                                                has strengthened its position as the top provider of
-                                                                quality training across all major Islamic finance
-                                                                disciplines. Diwan agency training arm specializes in
-                                                                industry technical certifications. The certifications
-                                                                are designed to ensure attainment of technical
-                                                                proficiency levels to fulfill jobs requirement and
-                                                                support professionalization of the industry. Diwan
-                                                                serves as a partner to numerous world class
-                                                                institutions; delivering thought leadership, research,
-                                                                advisory, assessment and training in various Islamic
-                                                                finance fields.
+                                                                This is an umbrella body that brings together Muslim
+                                                                teachers in Uganda so they increase access to quality
+                                                                education of the Muslim community as well as improving
+                                                                Teachers' welfare. UMTA was established in 1988 as a
+                                                                national non-governmental not for profit organisation
+                                                                working across the country. UMTA units Muslim teachers
+                                                                irrespective of their social and political affiliation.
                                                             </p>
-                                                            <%--<div
-                                                                class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
-                                                                <div class="inner">
-                                                                    <span class="item">
-                                                                        <span class="icon"><i
-                                                                                class="fa fa-check-square"></i></span>
-                                                                        <span class="text">We have successfully
-                                                                            completed
-                                                                            projects in numerous states.</span>
-                                                                    </span>
-                                                                </div>
-                                                        </div><!-- /.themeslat-list -->
-                                                        <div
-                                                            class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
-                                                            <div class="inner">
-                                                                <span class="item">
-                                                                    <span class="icon"><i
-                                                                            class="fa fa-check-square"></i></span>
-                                                                    <span class="text">We are licensed to perform
-                                                                        general
-                                                                        contracting work in most states. </span>
-                                                                </span>
-                                                            </div>
-                                                        </div><!-- /.themeslat-list -->
-                                                        <div
-                                                            class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
-                                                            <div class="inner">
-                                                                <span class="item">
-                                                                    <span class="icon"><i
-                                                                            class="fa fa-check-square"></i></span>
-                                                                    <span class="text">We will be open to obtaining new
-                                                                        licensing if an opportunity arises</span>
-                                                                </span>
-                                                            </div>
-                                                        </div>--%><!-- /.themeslat-list -->
+                                                        </div>
                                                     </div>
-                                                </div>
-                                                <!-- /.tab-content -->
-                                                <div class="tab-content">
-                                                    <div class="item-content">
-                                                        <img src="assets/img/Uganda Muslim Education Association (UMEA).png"
-                                                            width="80px" style="float:left" />
-                                                        <p>This was established in 1936 to work as a Muslim Secretariat
-                                                            that serves Ugandan Muslims. It aims at providing a platform
-                                                            for Muslims to achieve sound education (modern and
-                                                            traditional Islamic studies) purposely to attain a
-                                                            reasonable share in their country as their counterparts of
-                                                            other religious affiliations.
-                                                        </p>
+                                                    <!-- /.tab-content -->
+                                                    <div class="tab-content">
+                                                        <div class="item-content">
+                                                            <img src="assets/img/The Islamic Medical Association of Uganda (IMAU).png"
+                                                                width="80px" style="float:left" />
+                                                            <p>This is a registered non-governmental organization
+                                                                established in 1988. The membership of the Association
+                                                                consists of Muslim health professionals who form the
+                                                                General
+                                                                Assembly, the association’s highest authority. IMAU
+                                                                targets
+                                                                all people of Uganda but with a comparative advantage
+                                                                with
+                                                                Islamic communities. </p>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                                <!-- /.tab-content -->
-                                                <div class="tab-content">
-                                                    <div class="item-content">
-                                                        <img src="assets/img/Uganda Muslim Teachers' Association (UMTA).png"
-                                                            width="80px" style="float:left" />
-                                                        <p>
-                                                            This is an umbrella body that brings together Muslim
-                                                            teachers in Uganda so they increase access to quality
-                                                            education of the Muslim community as well as improving
-                                                            Teachers' welfare. UMTA was established in 1988 as a
-                                                            national non-governmental not for profit organisation
-                                                            working across the country. UMTA units Muslim teachers
-                                                            irrespective of their social and political affiliation.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <!-- /.tab-content -->
-                                                <div class="tab-content">
-                                                    <div class="item-content">
-                                                        <img src="assets/img/The Islamic Medical Association of Uganda (IMAU).png"
-                                                            width="80px" style="float:left" />
-                                                        <p>This is a registered non-governmental organization
-                                                            established in 1988. The membership of the Association
-                                                            consists of Muslim health professionals who form the General
-                                                            Assembly, the association’s highest authority. IMAU targets
-                                                            all people of Uganda but with a comparative advantage with
-                                                            Islamic communities. </p>
-                                                    </div>
-                                                </div>
-                                                <!-- /.tab-content -->
-                                                <div class="tab-content">
-                                                    <div class="item-content">
-                                                        <img src="assets/img/Bilal Staff Savings and Credit Cooperative Society (BISTSACCO).png"
-                                                            width="80px" style="float:left" />
-                                                        <p> SACCOs in Various Institutions.
+                                                    <!-- /.tab-content -->
+                                                    <div class="tab-content">
+                                                        <div class="item-content">
+                                                            <img src="assets/img/Bilal Staff Savings and Credit Cooperative Society (BISTSACCO).png"
+                                                                width="80px" style="float:left" />
+                                                            <p> SACCOs in Various Institutions.
 
-                                                            We establish Islamic financial cooperatives (Baitulmal Wat
-                                                            Tamwil) in different institutions who are our implementing
-                                                            partners established as standalone or Windows in
-                                                            conventional financial institutions including; Cooperatives,
-                                                            Savings and Credit Cooperative Societies (SACCOs), Groups,
-                                                            Microfinance Institutions (MFIs), Small and Median
-                                                            Enterprises (SMEs), and other development institutions.
-                                                            One of the model reference SACCOs we have supported is Bilal
-                                                            Staff Savings and Credit Cooperative Society (BISTSACCO)
-                                                        </p>
+                                                                We establish Islamic financial cooperatives (Baitulmal
+                                                                Wat
+                                                                Tamwil) in different institutions who are our
+                                                                implementing
+                                                                partners established as standalone or Windows in
+                                                                conventional financial institutions including;
+                                                                Cooperatives,
+                                                                Savings and Credit Cooperative Societies (SACCOs),
+                                                                Groups,
+                                                                Microfinance Institutions (MFIs), Small and Median
+                                                                Enterprises (SMEs), and other development institutions.
+                                                                One of the model reference SACCOs we have supported is
+                                                                Bilal
+                                                                Staff Savings and Credit Cooperative Society (BISTSACCO)
+                                                            </p>
+                                                        </div>
                                                     </div>
+                                                    <!-- /.tab-content -->
+                                                    <!-- 7 tabs updated -->
                                                 </div>
-                                                <!-- /.tab-content -->
-                                                <!-- 7 tabs updated -->
+                                                <!-- /.tab-content-wrap -->
                                             </div>
-                                            <!-- /.tab-content-wrap -->
                                         </div>
+                                        <!-- /.themesflat-content-box -->
                                     </div>
-                                    <!-- /.themesflat-content-box -->
+                                    <!-- /.col-md-6 -->
+
+
+
+
                                 </div>
-                                <!-- /.col-md-6 -->
-
-
-
-
-                            </div>
-                            <!-- /.row -->
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0"
-                                        data-smobile="0"></div>
+                                <!-- /.row -->
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0"
+                                            data-smobile="0"></div>
+                                    </div>
+                                    <!-- /.col-md-12 -->
                                 </div>
-                                <!-- /.col-md-12 -->
+                                <!-- /.row -->
                             </div>
-                            <!-- /.row -->
+                            <!-- /.container -->
                         </div>
-                        <!-- /.container -->
-                    </div>
-                    <!-- END TABS -->
+                        <!-- END TABS -->
 
-                    <!-- QUOTE -->
-                    <div class="row-quote" style="background-color:#b88114">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
-                                        data-smobile="35"></div>
-                                    <div class="themesflat-quote style-1 clearfix">
-                                        <div class="quote-item">
-                                            <div class="inner">
-                                                <div class="heading-wrap">
-                                                    <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
-                                                </div>
-                                                <div class="button-wrap has-icon icon-left">
-                                                    <a href="#" class="themesflat-button bg-white small"><span>+256 750
-                                                            075300 <span class="icon"><i
-                                                                    class="autora-icon-phone-contact"></i></span></span></a>
+                        <!-- QUOTE -->
+                        <div class="row-quote" style="background-color:#b88114">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
+                                            data-smobile="35"></div>
+                                        <div class="themesflat-quote style-1 clearfix">
+                                            <div class="quote-item">
+                                                <div class="inner">
+                                                    <div class="heading-wrap">
+                                                        <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
+                                                    </div>
+                                                    <div class="button-wrap has-icon icon-left">
+                                                        <a href="#" class="themesflat-button bg-white small"><span>+256
+                                                                750
+                                                                075300 <span class="icon"><i
+                                                                        class="autora-icon-phone-contact"></i></span></span></a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
+                                        <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
+                                            data-smobile="35"></div>
                                     </div>
-                                    <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
-                                        data-smobile="35"></div>
+                                    <!-- /.col-md-12 -->
                                 </div>
-                                <!-- /.col-md-12 -->
+                                <!-- /.row -->
                             </div>
-                            <!-- /.row -->
+                            <!-- /.container -->
                         </div>
-                        <!-- /.container -->
-                    </div>
-                    <!-- END QUOTE -->
-                    <!-- "our team" replaced with yellow "contact us"-->
+                        <!-- END QUOTE -->
+                        <!-- "our team" replaced with yellow "contact us"-->
                     </div>
                     <!-- /.page-content -->
 
