@@ -502,7 +502,8 @@
                                             <!-- /.tab-content -->
                                             <div class="tab-content">
                                                 <div class="item-content">
-                                                    <img src="assets/img/House of Zakat & Waqf Uganda (HZWU).png"
+                                                    <img src="assets/img/House of Zakat and Waqf Uganda (HZWU).png"--> 
+                                                    <!-- avoid using symbols for img files. file wont show -->
                                                         width="80px" style="float:left" />
                                                     <p>This is a non-denominational and not for profit organization set
                                                         up to manage and administer Zakat (obligatory dues) and
@@ -510,7 +511,7 @@
                                                         of the Holy Quran, Hadith, Consensus and Analogy for the social
                                                         wellbeing of Muslims and development of Islam. </p>
 
-                                                    <%--<div
+                                                    <div
                                                         class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
                                                         <div class="inner">
                                                             <span class="item">
@@ -521,7 +522,9 @@
                                                                     states.</span>
                                                             </span>
                                                         </div>
-                                                </div><!-- /.themeslat-list -->
+                                                </div>
+                                                <!-- avoid using symbols for img files. file wont show -->
+                                                 <!-- /.themeslat-list -->
                                                 <div
                                                     class="themesflat-list has-icon style-1 icon-left ofset-padding-32 clearfix">
                                                     <div class="inner">
@@ -541,7 +544,9 @@
                                                                 licensing if an opportunity arises</span>
                                                         </span>
                                                     </div>
-                                                </div>--%><!-- /.themeslat-list -->
+                                                </div>
+                                                <!-- asp code comments = "<%--lorem ipsum --%> --> 
+                                                <!-- /.themeslat-list -->
                                             </div>
                                         </div>
                                         <!-- /.tab-content -->
