@@ -947,41 +947,7 @@
 
 
                         <div class="page-content">
-
-                            <!-- QUOTE -->
-                            <div class="row-quote" style="background-color:#b88114">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
-                                                data-smobile="35"></div>
-                                            <div class="themesflat-quote style-1 clearfix">
-                                                <div class="quote-item">
-                                                    <div class="inner">
-                                                        <div class="heading-wrap">
-                                                            <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
-                                                        </div>
-                                                        <div class="button-wrap has-icon icon-left">
-                                                            <a href="#"
-                                                                class="themesflat-button bg-white small"><span>+256 750
-                                                                    075300 <span class="icon"><i
-                                                                            class="autora-icon-phone-contact"></i></span></span></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
-                                                data-smobile="35"></div>
-                                        </div>
-                                        <!-- /.col-md-12 -->
-                                    </div>
-                                    <!-- /.row -->
-                                </div>
-                                <!-- /.container -->
-                            </div>
-                            <!-- END QUOTE -->
-
-
+                            <!--arrangement of code starts here. FAQs/ our team / CONTACT US for partnership -->
                             <!-- TABS -->
                             <div class="row-tabs">
                                 <div class="container">
@@ -1090,7 +1056,7 @@
                                                                 investment options and strategies.</div>
                                                         </div>
                                                     </div>
-                                                    <!-- /.accordion-item 7 -->
+                                                    <!-- /.accordion-item FAQs 7 -->
 
 
                                                     <!-- /.accordion-item ## FUTURE UPDATES TO BE ADDED HERE-->
@@ -1115,149 +1081,10 @@
                                 </div>
                                 <!-- /.container -->
                             </div>
-                            <!-- END TABS -->
+                            <!-- END of FAQs TABS -->
 
-                            <!-- PARTNER -->
-                            <%-- <div class="row-partner">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
-                                                data-smobile="60"></div>
-                                            <div class="themesflat-carousel-box clearfix" data-gap="5" data-column="5"
-                                                data-column2="3" data-column3="2" data-auto="true">
-                                                <div class="owl-carousel owl-theme">
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-1.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-1-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-2.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-2-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1  align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-3.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-3-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-4.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-4-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-5.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-5-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-1.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-1-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-2.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-2-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1  align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-3.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-3-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-4.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-4-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-5.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-5-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                </div>
-                                            </div><!-- /.themesflat-carousel-box -->
-                                            <div class="themesflat-spacer clearfix" data-desktop="66" data-mobile="60"
-                                                data-smobile="60"></div>
-                                        </div><!-- /.col-md-12 -->
-                                    </div><!-- /.row -->
-                                </div><!-- /.container -->
-                        </div>--%>
-                        <!-- END PARTNER -->
 
-                        <!-- TEAM -->
+                            <!-- TEAM -->
                         <div class="row-team">
                             <div class="container">
                                 <div class="row">
@@ -1268,8 +1095,10 @@
                                             <h2 class="heading">OUR TEAM</h2>
 
                                             <%--<p class="sub-heading font-weight-400 text-808 max-width-680">With us
-                                                you will have the peace of mind knowing that your dream home project is
-                                                in the hands of a licensed fully insured building company.</p>
+                                                you
+                                                will have the peace of mind knowing that your dream home project is in
+                                                the
+                                                hands of a licensed fully insured building company.</p>
                                         </div>--%>
                                         <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="35"
                                             data-smobile="35"></div>
@@ -1516,7 +1345,180 @@
                                 <!-- /.container -->
                             </div>
                             <!-- END TEAM -->
+
+                            <!-- PARTNER -->
+                            <%-- <div class="row-partner">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
+                                                data-smobile="60"></div>
+                                            <div class="themesflat-carousel-box clearfix" data-gap="5" data-column="5"
+                                                data-column2="3" data-column3="2" data-auto="true">
+                                                <div class="owl-carousel owl-theme">
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-1.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-1-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-2.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-2-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1  align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-3.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-3-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-4.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-4-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-5.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-5-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-1.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-1-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-2.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-2-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1  align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-3.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-3-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-4.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-4-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                    <div class="themesflat-partner style-1 align-center clearfix">
+                                                        <div class="partner-item">
+                                                            <div class="inner">
+                                                                <div class="thumb">
+                                                                    <img src="assets/img/partners/partner-5.png"
+                                                                        alt="Image" class="partner-default">
+                                                                    <img src="assets/img/partners/partner-5-color.png"
+                                                                        alt="Image" class="partner-color">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div><!-- /themesflat-partner -->
+                                                </div>
+                                            </div><!-- /.themesflat-carousel-box -->
+                                            <div class="themesflat-spacer clearfix" data-desktop="66" data-mobile="60"
+                                                data-smobile="60"></div>
+                                        </div><!-- /.col-md-12 -->
+                                    </div><!-- /.row -->
+                                </div><!-- /.container -->
+                        </div>--%>
+                        <!-- END PARTNER -->
+
+                        <!-- QUOTE -->
+                        <div class="row-quote" style="background-color:#b88114">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
+                                            data-smobile="35"></div>
+                                        <div class="themesflat-quote style-1 clearfix">
+                                            <div class="quote-item">
+                                                <div class="inner">
+                                                    <div class="heading-wrap">
+                                                        <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
+                                                    </div>
+                                                    <div class="button-wrap has-icon icon-left">
+                                                        <a href="#" class="themesflat-button bg-white small"><span>+256
+                                                                750
+                                                                075300 <span class="icon"><i
+                                                                        class="autora-icon-phone-contact"></i></span></span></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
+                                            data-smobile="35"></div>
+                                    </div>
+                                    <!-- /.col-md-12 -->
+                                </div>
+                                <!-- /.row -->
+                            </div>
+                            <!-- /.container -->
                         </div>
+                        <!-- END QUOTE -->
+                        <!-- order this time was FAQs / our team / Contact us for partnership. -->
                         <!-- /.page-content -->
 
 
