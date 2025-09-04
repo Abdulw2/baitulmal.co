@@ -1085,258 +1085,654 @@
 
 
                             <!-- TEAM -->
-                        <div class="row-team">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="themesflat-spacer clearfix" data-desktop="61" data-mobile="60"
-                                            data-smobile="60"></div>
-                                        <div class="themesflat-headings style-1 text-center clearfix">
-                                            <h2 class="heading">OUR TEAM</h2>
-
-                                            <%--<p class="sub-heading font-weight-400 text-808 max-width-680">With us
-                                                you
-                                                will have the peace of mind knowing that your dream home project is in
-                                                the
-                                                hands of a licensed fully insured building company.</p>
-                                        </div>--%>
-                                        <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="35"
-                                            data-smobile="35"></div>
-                                        <div class="themesflat-carousel-box data-effect has-bullets bullet-circle bullet24 clearfix"
-                                            data-gap="30" data-column="3" data-column2="2" data-column3="1"
-                                            data-auto="true">
-                                            <div class="row">
-
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Hajji. Musoke Jamadah Lutta.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Hajji Musoke Jamadah Lutta</h6>
-                                                                    <div class="position">Board Chairman</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /.themesflat-team -->
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Dr. Lujja Sulaiman.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- social media icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Dr. Lujja Sulaiman (CSAA)</h6>
-                                                                    <div class="position">Managing Director
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /.themesflat-team -->
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Nabukenya Faridah.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- social media icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Nabukenya Faridah</h6>
-                                                                    <div class="position">Executive Director
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /.themesflat-team -->
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Hajjat Nakirijja Jamidah.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- social media icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Hajjat Nakirijja Jamidah</h6>
-                                                                    <div class="position">Director & Secretary</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /.themesflat-team -->
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Muhamad Ali Aluma.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Muhamad Ali Aluma</h6>
-                                                                    <div class="position">Board Member</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Mr. Moses Bazibu.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Mr. Moses Bazibu</h6>
-                                                                    <div class="position">Director</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Dr. Ahmed Moses.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Dr. Ahmed Moses</h6>
-                                                                    <div class="position">Consultant</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Dr. Kiyita, M. Kyambadde.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Dr. Kiyita M. Kyambadde (FCCA)</h6>
-                                                                    <div class="position">Consultant</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Mahawuya Kabuye Kasujja.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Mahawuya Kabuye Kasujja (FCCA)</h6>
-                                                                    <div class="position">Consultant</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-                                                <div class="col-md-3">
-                                                    <div class="themesflat-team style-1 align-center clearfix">
-                                                        <div class="team-item">
-                                                            <div class="inner">
-                                                                <div class="thumb data-effect-item">
-                                                                    <img src="assets/img/Sheikh. Ausi Lutaaya.jpg"
-                                                                        alt="Image">
-                                                                    <!-- double check assets -->
-                                                                    <ul class="socials clearfix">
-                                                                        <!-- icons to be replaced with descripton of the individual -->
-                                                                    </ul>
-                                                                    <div class="overlay-effect bg-color-4"></div>
-                                                                </div>
-                                                                <div class="text-wrap">
-                                                                    <h6 class="name">Sheikh Ausi Lutaaya</h6>
-                                                                    <div class="position">Shari’ah Advisor</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /.themesflat-team -->
-                                                <!-- team arranged based on hierarchy -->
-                                                <!-- /.owl-carousel -->
-                                            </div>
-                                            <!-- /.themesflat-carousel -->
-                                            <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
+                            <div class="row-team">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="themesflat-spacer clearfix" data-desktop="61" data-mobile="60"
                                                 data-smobile="60"></div>
+                                            <div class="themesflat-headings style-1 text-center clearfix">
+                                                <h2 class="heading">OUR TEAM</h2>
+
+                                                <%--<p class="sub-heading font-weight-400 text-808 max-width-680">With
+                                                    us
+                                                    you
+                                                    will have the peace of mind knowing that your dream home project is
+                                                    in
+                                                    the
+                                                    hands of a licensed fully insured building company.</p>
+                                            </div>--%>
+                                            <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="35"
+                                                data-smobile="35"></div>
+                                            <div class="themesflat-carousel-box data-effect has-bullets bullet-circle bullet24 clearfix"
+                                                data-gap="30" data-column="3" data-column2="2" data-column3="1"
+                                                data-auto="true">
+                                                <div class="row">
+
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Hajji. Musoke Jamadah Lutta.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+
+
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Hajji Musoke Jamadah Lutta</h6>
+                                                                        <div class="position">Board Chairman</div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                He is seasoned accountant and
+                                                                                businessman.<br>
+                                                                                Who is the Executive Chairman and
+                                                                                founder of J. Lutta & Vo. Inc.,<br>
+                                                                                specializing in Coffee & Horticultural
+                                                                                export.<br>
+                                                                                Previously, he was a
+                                                                                shareholder/Director of Greenland Bank
+                                                                                Ltd.<br>
+                                                                                He has a B. Com (Accounting) from New
+                                                                                Delhi Commercial University India,<br>
+                                                                                a fellow member of Chartered Institute
+                                                                                of Accountants of India (FICA),<br>
+                                                                                and a fellow member of the Institute of
+                                                                                All India Auditors (FSAA).
+                                                                            </p>
+
+                                                                        </details>
+                                                                        <!--simple dropdown implemented -->
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.themesflat-team -->
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Dr. Lujja Sulaiman.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- social media icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Dr. Lujja Sulaiman (CSAA)</h6>
+                                                                        <div class="position">Managing Director
+                                                                        </div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                Lujja is a seasoned banker, Islamic
+                                                                                finance expert, Shari’ah advisor, and
+                                                                                Shari’a auditor.<br>
+                                                                                Previously, he headed Islamic banking &
+                                                                                Islamic investments departments at
+                                                                                Tropical bank and Microfinance Support
+                                                                                Centre.<br>
+                                                                                He participated in the process of
+                                                                                amending Uganda’s legal framework to
+                                                                                accommodate Islamic banking and finance
+                                                                                and has worked with Government bodies,
+                                                                                NGOs and the Private sector to develop
+                                                                                Uganda’s Islamic financial sector.<br>
+                                                                                He holds a PhD and an MBA in Islamic
+                                                                                Banking & Finance from Malaysia, a
+                                                                                Bachelor’s Degree in Shari’a from Saudi
+                                                                                Arabia, and a Bachelor’s Degree in
+                                                                                Accounting.<br>
+                                                                                Professionally, he is a Certified
+                                                                                Shari’a Adviser and Auditor (CSAA) from
+                                                                                the Bahrain-based Accounting and
+                                                                                Auditing Organization for Islamic
+                                                                                Financial Institutions (AAOIFI).
+                                                                            </p>
+
+                                                                        </details>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.themesflat-team -->
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Nabukenya Faridah.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- social media icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Nabukenya Faridah</h6>
+                                                                        <div class="position">Executive Director
+                                                                        </div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                She is a highly skilled finance
+                                                                                specialist with over 15 years of
+                                                                                experience in financial planning,
+                                                                                investment strategy, and risk
+                                                                                management.<br>
+                                                                                She has successfully served at different
+                                                                                institution both public and private,
+                                                                                government and Non-Government
+                                                                                Organizations (NGOs).<br>
+                                                                                She holds a Masters in Islamic Banking
+                                                                                and Finance (MIBF) from Islamic
+                                                                                University in Uganda (IUIU), a post
+                                                                                graduate diploma in Human Resource
+                                                                                Management and a Bachelor of Commerce
+                                                                                from Makerere University Kampala (MUK).
+                                                                            </p>
+
+
+                                                                        </details>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.themesflat-team -->
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Hajjat Nakirijja Jamidah.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- social media icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Hajjat Nakirijja Jamidah</h6>
+                                                                        <div class="position">Director & Secretary</div>
+
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                She is a Businesswoman and a co-founder
+                                                                                / Director of Diwan Islamic Finance
+                                                                                Agency.<br>
+                                                                                She is a Human Resource and
+                                                                                Administration expert with a Masters of
+                                                                                Business Administration (Human Resources
+                                                                                Management and Administration
+                                                                                specialization) and a Bachelor’s degree
+                                                                                in Human Resources Management &
+                                                                                Administration.<br>
+                                                                                She has organized and led livelihood
+                                                                                transformation initiatives for different
+                                                                                Women groups, improving their knowledge,
+                                                                                financial literacy, and teamwork skills.
+                                                                            </p>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /.themesflat-team -->
+                                                    </div>
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Muhamad Ali Aluma.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Counsel. Muhamad Ali Aluma</h6>
+                                                                        <div class="position">Board Member</div>
+                                                                        <details>
+                                                                            <summary>More Info</summary>
+                                                                            <p>
+                                                                                He has over a decade of combined
+                                                                                professional experience in
+                                                                                administration, management, lecturing
+                                                                                and legal services.<br>
+                                                                                He holds an honors Bachelor of Laws
+                                                                                Degree, a post graduate diploma in legal
+                                                                                practice from LDC, and a Masters in Law
+                                                                                (LLM).<br>
+                                                                                He currently serves as Assistant
+                                                                                Secretary General, Uganda Muslim Supreme
+                                                                                Counsel (UMSC).<br>
+                                                                                He is a professional associate with over
+                                                                                a decade’s experience in several
+                                                                                well-established busy organizations,
+                                                                                with interests and expertise in law
+                                                                                practice.
+                                                                            </p>
+
+                                                                        </details>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Mr. Moses Bazibu.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Mr. Moses Bazibu</h6>
+                                                                        <div class="position">Director</div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                He is a seasoned risk management
+                                                                                professional with over a decade and a
+                                                                                half of experience in ethical
+                                                                                governance, financial oversight, and
+                                                                                humanitarian operations across Africa,
+                                                                                MENA, and Europe.<br>
+                                                                                Currently serving with UNHCR Sudan, he
+                                                                                champions risk management, integrity and
+                                                                                ethical conduct, inclusive growth, and
+                                                                                resource safeguarding.<br>
+                                                                                He holds a Master’s in Accounting and
+                                                                                ACCA (UK) certified.<br>
+                                                                                His people-centered approach &
+                                                                                commitment to ethical wealth stewardship
+                                                                                resonate with BAITULMAL.
+                                                                            </p>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Dr. Ahmed Moses.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Dr. Ahmed Moses</h6>
+                                                                        <div class="position">Consultant</div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                He is a qualified educationist who has
+                                                                                taught in Uganda, London (UK) and
+                                                                                Rwanda.<br>
+                                                                                Worked as Dean, Faculty of Business &
+                                                                                Management and later rose to Deputy
+                                                                                Vice-Chancellor in charge of Academics
+                                                                                at the University of Kigali Rwanda.<br>
+                                                                                He worked at Greenland Bank.<br>
+                                                                                Ahmed holds a PhD Islamic finance and
+                                                                                Banking (London), MBA UEL – (London),
+                                                                                Post Graduate Diploma in Education
+                                                                                (PGDE)- IUIU Uganda, and Bachelors:
+                                                                                (B.A) – IUIU – Uganda.
+                                                                            </p>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Dr. Kiyita, M. Kyambadde.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Dr. Kiyita M. Kyambadde (FCCA)
+                                                                        </h6>
+                                                                        <div class="position">Consultant</div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                He is a Public Financial Management,
+                                                                                accounting, auditing and project
+                                                                                management expert with over 33 years of
+                                                                                practical experience in these
+                                                                                fields.<br>
+                                                                                He has worked for various International
+                                                                                Programmes and projects management
+                                                                                firms.<br>
+                                                                                He has membership certification as; FCCA
+                                                                                (UK), FCMA (UK), CPA (U), CGMA (USA),
+                                                                                AIA, (UK). MCIPS-UK, PMP-Israel,
+                                                                                CDIF-UK, CIIF, (Malaysia), holds a B.com
+                                                                                (MUK), four Masters degrees in
+                                                                                Accounting and Finance, Islamic Finance,
+                                                                                Project Management and PhD in Islamic
+                                                                                Finance.
+                                                                            </p>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Mahawuya Kabuye Kasujja.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Mahawuya Kabuye Kasujja (FCCA)
+                                                                        </h6>
+                                                                        <div class="position">Consultant</div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                He is an Islamic Finance Advisor with
+                                                                                added expertise in Finance and Tax
+                                                                                Advisory who graduated from
+                                                                                Qatar-Foundation’s Hamad Bin Khalifa
+                                                                                University (HBKU) with a MSc in Islamic
+                                                                                Finance, Bachelor of Commerce in
+                                                                                Accounting from Makerere and Member of
+                                                                                ACCA.<br>
+                                                                                He is currently pursuing a MSc. Taxation
+                                                                                at the University of Oxford.<br>
+                                                                                He has also previously worked as a
+                                                                                Financial and Tax Advisor at Ernst and
+                                                                                Young Qatar, France Telecom-Orange (U)
+                                                                                Ltd and Ernst and Young Uganda.
+                                                                            </p>
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                    <div class="col-md-3">
+                                                        <div class="themesflat-team style-1 align-center clearfix">
+                                                            <div class="team-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb data-effect-item">
+                                                                        <img src="assets/img/Sheikh. Ausi Lutaaya.jpg"
+                                                                            alt="Image">
+                                                                        <!-- double check assets -->
+                                                                        <ul class="socials clearfix">
+                                                                            <!-- icons to be replaced with descripton of the individual -->
+                                                                        </ul>
+                                                                        <div class="overlay-effect bg-color-4"></div>
+                                                                    </div>
+                                                                    <div class="text-wrap">
+                                                                        <h6 class="name">Sheikh Ausi Lutaaya</h6>
+                                                                        <div class="position">Shari’ah Advisor</div>
+                                                                        <details>
+                                                                            <summary>More info</summary>
+                                                                            <p>
+                                                                                He is a renowned Islamic scholar and
+                                                                                educator with over 25 years of
+                                                                                experience in Islamic jurisprudence,
+                                                                                finance, and community leadership.<br>
+                                                                                He has served as a Shari’ah advisor for
+                                                                                various Islamic financial institutions
+                                                                                and organizations across East Africa,
+                                                                                providing guidance on compliance with
+                                                                                Islamic principles.<br>
+                                                                                He holds a degree in Islamic Studies from
+                                                                                Al-Azhar University in Egypt and is a
+                                                                                respected member of several Islamic
+                                                                                scholarly councils, including serving as
+                                                                                a member of the Shari’ah Board for the
+                                                                                Central Bank of Kenya and advisor to
+                                                                                various Islamic NGOs and community
+                                                                                organizations.
+                                                                            </p>
+                                                                        </details>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /.themesflat-team -->
+                                                    <!-- team arranged based on hierarchy -->
+                                                    <!-- /.owl-carousel -->
+                                                </div>
+                                                <!-- /.themesflat-carousel -->
+                                                <div class="themesflat-spacer clearfix" data-desktop="80"
+                                                    data-mobile="60" data-smobile="60"></div>
+                                            </div>
+                                            <!-- /.col-md-12 -->
+                                        </div>
+                                        <!-- /.row -->
+                                    </div>
+                                    <!-- /.container -->
+                                </div>
+                                <!-- END TEAM --> 
+                                 <!-- UPDATED TEAM WITH INDIVIDUAL DESCRIPTIONS-->
+                                <!-- PARTNER -->
+                                <%-- <div class="row-partner">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="themesflat-spacer clearfix" data-desktop="80"
+                                                    data-mobile="60" data-smobile="60"></div>
+                                                <div class="themesflat-carousel-box clearfix" data-gap="5"
+                                                    data-column="5" data-column2="3" data-column3="2" data-auto="true">
+                                                    <div class="owl-carousel owl-theme">
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-1.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-1-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-2.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-2-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1  align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-3.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-3-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-4.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-4-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-5.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-5-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-1.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-1-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-2.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-2-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1  align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-3.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-3-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-4.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-4-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                        <div class="themesflat-partner style-1 align-center clearfix">
+                                                            <div class="partner-item">
+                                                                <div class="inner">
+                                                                    <div class="thumb">
+                                                                        <img src="assets/img/partners/partner-5.png"
+                                                                            alt="Image" class="partner-default">
+                                                                        <img src="assets/img/partners/partner-5-color.png"
+                                                                            alt="Image" class="partner-color">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div><!-- /themesflat-partner -->
+                                                    </div>
+                                                </div><!-- /.themesflat-carousel-box -->
+                                                <div class="themesflat-spacer clearfix" data-desktop="66"
+                                                    data-mobile="60" data-smobile="60"></div>
+                                            </div><!-- /.col-md-12 -->
+                                        </div><!-- /.row -->
+                                    </div><!-- /.container -->
+                            </div>--%>
+                            <!-- END PARTNER -->
+
+                            <!-- QUOTE -->
+                            <div class="row-quote" style="background-color:#b88114">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
+                                                data-smobile="35"></div>
+                                            <div class="themesflat-quote style-1 clearfix">
+                                                <div class="quote-item">
+                                                    <div class="inner">
+                                                        <div class="heading-wrap">
+                                                            <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
+                                                        </div>
+                                                        <div class="button-wrap has-icon icon-left">
+                                                            <a href="#"
+                                                                class="themesflat-button bg-white small"><span>+256
+                                                                    750
+                                                                    075300 <span class="icon"><i
+                                                                            class="autora-icon-phone-contact"></i></span></span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
+                                                data-smobile="35"></div>
                                         </div>
                                         <!-- /.col-md-12 -->
                                     </div>
@@ -1344,182 +1740,9 @@
                                 </div>
                                 <!-- /.container -->
                             </div>
-                            <!-- END TEAM -->
-
-                            <!-- PARTNER -->
-                            <%-- <div class="row-partner">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="themesflat-spacer clearfix" data-desktop="80" data-mobile="60"
-                                                data-smobile="60"></div>
-                                            <div class="themesflat-carousel-box clearfix" data-gap="5" data-column="5"
-                                                data-column2="3" data-column3="2" data-auto="true">
-                                                <div class="owl-carousel owl-theme">
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-1.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-1-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-2.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-2-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1  align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-3.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-3-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-4.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-4-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-5.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-5-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-1.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-1-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-2.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-2-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1  align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-3.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-3-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-4.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-4-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                    <div class="themesflat-partner style-1 align-center clearfix">
-                                                        <div class="partner-item">
-                                                            <div class="inner">
-                                                                <div class="thumb">
-                                                                    <img src="assets/img/partners/partner-5.png"
-                                                                        alt="Image" class="partner-default">
-                                                                    <img src="assets/img/partners/partner-5-color.png"
-                                                                        alt="Image" class="partner-color">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div><!-- /themesflat-partner -->
-                                                </div>
-                                            </div><!-- /.themesflat-carousel-box -->
-                                            <div class="themesflat-spacer clearfix" data-desktop="66" data-mobile="60"
-                                                data-smobile="60"></div>
-                                        </div><!-- /.col-md-12 -->
-                                    </div><!-- /.row -->
-                                </div><!-- /.container -->
-                        </div>--%>
-                        <!-- END PARTNER -->
-
-                        <!-- QUOTE -->
-                        <div class="row-quote" style="background-color:#b88114">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="themesflat-spacer clearfix" data-desktop="38" data-mobile="35"
-                                            data-smobile="35"></div>
-                                        <div class="themesflat-quote style-1 clearfix">
-                                            <div class="quote-item">
-                                                <div class="inner">
-                                                    <div class="heading-wrap">
-                                                        <h3 class="heading">CONTACT US FOR PARTNERSHIP</h3>
-                                                    </div>
-                                                    <div class="button-wrap has-icon icon-left">
-                                                        <a href="#" class="themesflat-button bg-white small"><span>+256
-                                                                750
-                                                                075300 <span class="icon"><i
-                                                                        class="autora-icon-phone-contact"></i></span></span></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="themesflat-spacer clearfix" data-desktop="33" data-mobile="35"
-                                            data-smobile="35"></div>
-                                    </div>
-                                    <!-- /.col-md-12 -->
-                                </div>
-                                <!-- /.row -->
-                            </div>
-                            <!-- /.container -->
-                        </div>
-                        <!-- END QUOTE -->
-                        <!-- order this time was FAQs / our team / Contact us for partnership. -->
-                        <!-- /.page-content -->
+                            <!-- END QUOTE -->
+                            <!-- order this time was FAQs / our team / Contact us for partnership. -->
+                            <!-- /.page-content -->
 
 
                         </div>
