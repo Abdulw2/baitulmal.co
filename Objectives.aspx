@@ -153,7 +153,7 @@
                                     <div class="themesflat-accordions style-4 has-icon icon-right iconstyle-1 clearfix">
 
                                         <div class="themesflat-headings style-2 clearfix">
-                                            <h2 class="heading">Design on How Objectives are achieved</h2>
+                                            <h2 class="heading">How Objectives Are Achieved</h2>
                                             <!-- check Later #2 [changed from "How Objectives are achieved/ Design"] -->
                                         </div>
 
